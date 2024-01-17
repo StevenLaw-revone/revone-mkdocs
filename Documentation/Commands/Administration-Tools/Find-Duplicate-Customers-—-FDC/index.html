@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../../img/favicon.ico">
-        <title>Find Duplicate Customers — FDC - My Docs</title>
+        <title>Find Duplicate Customers — FDC - revONE Documentation</title>
         <link href="../../../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../../css/base.css" rel="stylesheet">
@@ -20,7 +20,7 @@
     <body>
         <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-                <a class="navbar-brand" href="../../../..">My Docs</a>
+                <a class="navbar-brand" href="../../../..">revONE Documentation</a>
                 <!-- Expander button -->
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
                     <span class="navbar-toggler-icon"></span>
@@ -443,11 +443,6 @@
                         </ul>
 
                     <ul class="nav navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
-                                <i class="fa fa-search"></i> Search
-                            </a>
-                        </li>
                             <li class="nav-item">
                                 <a rel="prev" href="../Email-Suppression-Report-%E2%80%94-ESR/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
@@ -487,15 +482,15 @@
 
 <h1 id="find-duplicate-customers-fdc">Find Duplicate Customers — FDC</h1>
 <p>Used to find duplicate customers based on name similarity to attempt to join customers with potential misspellings</p>
-<p><img alt="image.png" src="/.attachments/Documentation/FindDuplicateCustomers01.png" /></p>
+<p><img alt="image.png" src="../../../../.attachments/Documentation/FindDuplicateCustomers01.png" /></p>
 <h3 id="similarity-threshold">Similarity Threshold</h3>
 <p>This function relies on using a fuzzy comparison routine that produces a similarity rating between 0 and 100 for how similar two names are. The threshold is the level above which the customers will be considered to have similar names. If the number is lowered there will be more false matches but bigger spelling mistakes are likely to be found.</p>
 <p>In order to search for matches the <code>Find Duplicates</code> button must be pressed as the process can take quite a while.</p>
-<p><img alt="image.png" src="/.attachments/Documentation/FindDuplicateCustomers02.png" /></p>
+<p><img alt="image.png" src="../../../../.attachments/Documentation/FindDuplicateCustomers02.png" /></p>
 <p>Once the search has completed the list of matches will be displayed grouped by the first match with the number of matches shown. Clicking on the <code>+</code> button will open the list of matches.</p>
-<p><img alt="image.png" src="/.attachments/Documentation/FindDuplicateCustomers03.png" /></p>
+<p><img alt="image.png" src="../../../../.attachments/Documentation/FindDuplicateCustomers03.png" /></p>
 <p>In hte list of matches the individual customers will be listed with check boxes to allow the customers to be selected for joining</p>
-<p><img alt="image.png" src="/.attachments/Documentation/FindDuplicateCustomers04.png" /></p>
+<p><img alt="image.png" src="../../../../.attachments/Documentation/FindDuplicateCustomers04.png" /></p>
 <p>Once the customers to join have been selected the <code>Join Selected Customers</code> button can be pressed to start joining.</p></div>
             </div>
         </div>
@@ -511,29 +506,8 @@
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../../../js/base.js"></script>
-        <script src="../../../../search/main.js"></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4 class="modal-title" id="searchModalLabel">Search</h4>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-            </div>
-            <div class="modal-body">
-                <p>From here you can search these documents. Enter your search terms below.</p>
-                <form>
-                    <div class="form-group">
-                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
-                    </div>
-                </form>
-                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
-            </div>
-            <div class="modal-footer">
-            </div>
-        </div>
-    </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+        <div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">

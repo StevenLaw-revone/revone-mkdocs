@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>Database Setup - My Docs</title>
+        <title>Database Setup - revONE Documentation</title>
         <link href="../../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -20,7 +20,7 @@
     <body>
         <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-                <a class="navbar-brand" href="../../..">My Docs</a>
+                <a class="navbar-brand" href="../../..">revONE Documentation</a>
                 <!-- Expander button -->
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
                     <span class="navbar-toggler-icon"></span>
@@ -443,11 +443,6 @@
                         </ul>
 
                     <ul class="nav navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
-                                <i class="fa fa-search"></i> Search
-                            </a>
-                        </li>
                             <li class="nav-item">
                                 <a rel="prev" href="../Customer-Editing/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
@@ -487,17 +482,17 @@
 
 <h1 id="database-setup">Database Setup</h1>
 <p>Editing the Databases requires SuperUser authorization.</p>
-<p><img alt="Authorization" src="/.attachments/Documentation/SetupDatabase-Authorization.png" title="Authorization" /></p>
+<p><img alt="Authorization" src="../../../.attachments/Documentation/SetupDatabase-Authorization.png" title="Authorization" /></p>
 <p>Once in the setup the information about the database will be shown and the specific database can be selected</p>
-<p><img alt="Setup Database" src="/.attachments/Documentation/SetupDatabase.png" title="Setup Database" /></p>
+<p><img alt="Setup Database" src="../../../.attachments/Documentation/SetupDatabase.png" title="Setup Database" /></p>
 <p>There are some advanced settings that may not be required for setup.</p>
-<p><img alt="Advanced" src="/.attachments/Documentation/SetupDatabase-Advanced.png" title="Advanced" /></p>
+<p><img alt="Advanced" src="../../../.attachments/Documentation/SetupDatabase-Advanced.png" title="Advanced" /></p>
 <h3 id="addedit-employee">Add/Edit Employee</h3>
 <p>It is possible to add or edit employees on the specific database from here. This is basically the same window as the <a href="../../Setup/All-Employees/Employee-File/">Setup&gt;Employee File</a> in the main setup window.</p>
-<p><img alt="Add/Edit Employee" src="/.attachments/Documentation/SetupDatabase-AddEditEmployee.png" title="Add/Edit Employee" /></p>
+<p><img alt="Add/Edit Employee" src="../../../.attachments/Documentation/SetupDatabase-AddEditEmployee.png" title="Add/Edit Employee" /></p>
 <h3 id="edit">Edit</h3>
 <p>In the edit mode more options become available.</p>
-<p><img alt="Edit Options" src="/.attachments/Documentation/SetupDatabase-EditOptions.png" title="Edit Options" /></p>
+<p><img alt="Edit Options" src="../../../.attachments/Documentation/SetupDatabase-EditOptions.png" title="Edit Options" /></p>
 <blockquote>
 <p>❗ Be careful about exported database settings. The password is in clear text and could cause security issues if not deleted once it is finished being used.</p>
 </blockquote>
@@ -529,10 +524,10 @@
 </table>
 <h4 id="check-steps">Check Steps</h4>
 <p>Checking the database makes sure that the database is setup correctly, there are several steps that are by default not checked. These tend to attempt to fix bad existing data and often take a long time to run so they default to inactive.</p>
-<p><img alt="Check" src="/.attachments/Documentation/SetupDatabase-Check.png" title="Check" /></p>
+<p><img alt="Check" src="../../../.attachments/Documentation/SetupDatabase-Check.png" title="Check" /></p>
 <h3 id="change-database">Change Database</h3>
 <p>Once there is more than one database saved the option to select what database to use becomes available.</p>
-<p><img alt="Change Database" src="/.attachments/Documentation/SetupDatabase-ChangeDatabase.png" title="Change Database" /></p></div>
+<p><img alt="Change Database" src="../../../.attachments/Documentation/SetupDatabase-ChangeDatabase.png" title="Change Database" /></p></div>
             </div>
         </div>
 
@@ -547,29 +542,8 @@
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../../js/base.js"></script>
-        <script src="../../../search/main.js"></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4 class="modal-title" id="searchModalLabel">Search</h4>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-            </div>
-            <div class="modal-body">
-                <p>From here you can search these documents. Enter your search terms below.</p>
-                <form>
-                    <div class="form-group">
-                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
-                    </div>
-                </form>
-                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
-            </div>
-            <div class="modal-footer">
-            </div>
-        </div>
-    </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+        <div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">

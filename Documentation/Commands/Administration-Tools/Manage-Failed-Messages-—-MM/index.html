@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../../img/favicon.ico">
-        <title>Manage Failed Messages — MM - My Docs</title>
+        <title>Manage Failed Messages — MM - revONE Documentation</title>
         <link href="../../../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../../css/base.css" rel="stylesheet">
@@ -20,7 +20,7 @@
     <body>
         <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-                <a class="navbar-brand" href="../../../..">My Docs</a>
+                <a class="navbar-brand" href="../../../..">revONE Documentation</a>
                 <!-- Expander button -->
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
                     <span class="navbar-toggler-icon"></span>
@@ -443,11 +443,6 @@
                         </ul>
 
                     <ul class="nav navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
-                                <i class="fa fa-search"></i> Search
-                            </a>
-                        </li>
                             <li class="nav-item">
                                 <a rel="prev" href="../Find-Duplicate-Customers-%E2%80%94-FDC/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
@@ -487,13 +482,13 @@
 
 <h1 id="manage-failed-messages-mm">Manage Failed Messages — MM</h1>
 <p>Pulls a list of messages that failed to send based on if there is an error in the record.</p>
-<p><img alt="Main" src="/.attachments/Documentation/ManageFailedMessages.png" title="Main" /></p>
+<p><img alt="Main" src="../../../../.attachments/Documentation/ManageFailedMessages.png" title="Main" /></p>
 <p>If there are failed messages they can be expanded using the <code>+</code> button.</p>
-<p><img alt="Expanded" src="/.attachments/Documentation/ManageFailedMessages-Expanded.png" title="Expanded" /></p>
+<p><img alt="Expanded" src="../../../../.attachments/Documentation/ManageFailedMessages-Expanded.png" title="Expanded" /></p>
 <p>Here there is the parameters of the message in JSON format (the block of text surrounded by curly braces <code>{}</code>) followed by the error message <code>No Domain</code> indicating that in this case the domain of the email was missing (the part of the email after the <code>@</code> symbol)</p>
 <h3 id="edit">Edit</h3>
 <p>The message's customer's contact info and contact preferences can be edited here.</p>
-<p><img alt="Edit Contact Info" src="/.attachments/Documentation/ManageFailedMessages-EditContactInfo.png" title="Edit Contact Info" /></p>
+<p><img alt="Edit Contact Info" src="../../../../.attachments/Documentation/ManageFailedMessages-EditContactInfo.png" title="Edit Contact Info" /></p>
 <h3 id="delete">Delete</h3>
 <p>Deletes the message so that it is cleared from the queue.</p>
 <h3 id="refresh">Refresh</h3>
@@ -514,29 +509,8 @@
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../../../js/base.js"></script>
-        <script src="../../../../search/main.js"></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4 class="modal-title" id="searchModalLabel">Search</h4>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-            </div>
-            <div class="modal-body">
-                <p>From here you can search these documents. Enter your search terms below.</p>
-                <form>
-                    <div class="form-group">
-                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
-                    </div>
-                </form>
-                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
-            </div>
-            <div class="modal-footer">
-            </div>
-        </div>
-    </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+        <div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">

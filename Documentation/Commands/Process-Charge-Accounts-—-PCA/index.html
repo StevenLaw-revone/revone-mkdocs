@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>Process Charge Accounts — PCA - My Docs</title>
+        <title>Process Charge Accounts — PCA - revONE Documentation</title>
         <link href="../../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -20,7 +20,7 @@
     <body>
         <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-                <a class="navbar-brand" href="../../..">My Docs</a>
+                <a class="navbar-brand" href="../../..">revONE Documentation</a>
                 <!-- Expander button -->
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
                     <span class="navbar-toggler-icon"></span>
@@ -443,11 +443,6 @@
                         </ul>
 
                     <ul class="nav navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
-                                <i class="fa fa-search"></i> Search
-                            </a>
-                        </li>
                             <li class="nav-item">
                                 <a rel="prev" href="../Process-Card-Errors-%E2%80%94-PCE/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
@@ -487,19 +482,19 @@
 
 <h1 id="process-charge-accounts-pca">Process Charge Accounts — PCA</h1>
 <p>Charge a customer for all the invoices in a specific time range</p>
-<p><img alt="Main" src="/.attachments/Documentation/ProcessCardAccounts.png" title="Main" /></p>
+<p><img alt="Main" src="../../../.attachments/Documentation/ProcessCardAccounts.png" title="Main" /></p>
 <p>The Frequency Type is a Manager Property in the customer setup used to separate customers into different groups. Here the separation is how frequently the statement needs to be generated</p>
-<p><img alt="Frequency Types" src="/.attachments/Documentation/MonthlyChargeAccounts-FrequencyType.png" title="Frequency Types" /></p>
+<p><img alt="Frequency Types" src="../../../.attachments/Documentation/MonthlyChargeAccounts-FrequencyType.png" title="Frequency Types" /></p>
 <p>The setting is in Manager Properties at the bottom of the following screenshot</p>
-<p><img alt="Customer Setting" src="/.attachments/Documentation/MonthlyChargeAccounts-ChargeAccountFrequency.png" title="Frequency Types" /></p>
+<p><img alt="Customer Setting" src="../../../.attachments/Documentation/MonthlyChargeAccounts-ChargeAccountFrequency.png" title="Frequency Types" /></p>
 <p>The full list of options is available to be set in the Setup&gt;Charge Account Frequencies tab</p>
-<p><img alt="Setup — Change Charge Account Frequencies" src="/.attachments/Documentation/MonthlyChargeAccounts-Setup-ChargeAccountFrequencies.png" title="Setup — Change Charge Account Frequencies" /></p>
+<p><img alt="Setup — Change Charge Account Frequencies" src="../../../.attachments/Documentation/MonthlyChargeAccounts-Setup-ChargeAccountFrequencies.png" title="Setup — Change Charge Account Frequencies" /></p>
 <p>The <code>+</code> Button beside the month allows for a more specific date range to be selected</p>
-<p><img alt="Specific Date Range" src="/.attachments/Documentation/ProcessCardAccounts-SpecificDateRange.png" title="Specific Date Range" /></p>
+<p><img alt="Specific Date Range" src="../../../.attachments/Documentation/ProcessCardAccounts-SpecificDateRange.png" title="Specific Date Range" /></p>
 <p>Once the Load Data button is pressed all the eligible invoices are loaded</p>
-<p><img alt="Loaded" src="/.attachments/Documentation/ProcessCardAccounts-Loaded.png" title="Loaded" /></p>
+<p><img alt="Loaded" src="../../../.attachments/Documentation/ProcessCardAccounts-Loaded.png" title="Loaded" /></p>
 <p>Clicking on the <code>+</code> button beside the customer will open a detal list with the invoices that are to be paid</p>
-<p><img alt="Details" src="/.attachments/Documentation/ProcessCardAccounts-Details.png" title="Details" /></p>
+<p><img alt="Details" src="../../../.attachments/Documentation/ProcessCardAccounts-Details.png" title="Details" /></p>
 <h3 id="process-payments">Process Payments</h3>
 <p>Iterates through the list of selected customers and pays their invoices using a single lump payment to their on file card</p>
 <h3 id="change-credit-card">Change Credit Card</h3>
@@ -528,29 +523,8 @@
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../../js/base.js"></script>
-        <script src="../../../search/main.js"></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4 class="modal-title" id="searchModalLabel">Search</h4>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-            </div>
-            <div class="modal-body">
-                <p>From here you can search these documents. Enter your search terms below.</p>
-                <form>
-                    <div class="form-group">
-                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
-                    </div>
-                </form>
-                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
-            </div>
-            <div class="modal-footer">
-            </div>
-        </div>
-    </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+        <div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">

@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>Customer Editing - My Docs</title>
+        <title>Customer Editing - revONE Documentation</title>
         <link href="../../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -20,7 +20,7 @@
     <body>
         <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-                <a class="navbar-brand" href="../../..">My Docs</a>
+                <a class="navbar-brand" href="../../..">revONE Documentation</a>
                 <!-- Expander button -->
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
                     <span class="navbar-toggler-icon"></span>
@@ -443,11 +443,6 @@
                         </ul>
 
                     <ul class="nav navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
-                                <i class="fa fa-search"></i> Search
-                            </a>
-                        </li>
                             <li class="nav-item">
                                 <a rel="prev" href="../Credit-Card/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
@@ -507,35 +502,35 @@
 
 <h1 id="customer-editing">Customer Editing</h1>
 <p>A customer's profile is managed here.</p>
-<p><img alt="" src="/.attachments/Documentation/Customer.png" title="" /></p>
+<p><img alt="" src="../../../.attachments/Documentation/Customer.png" title="" /></p>
 <h2 id="address-autocomplete">Address Autocomplete</h2>
 <p>When typing in an address it will attempt to autocomplete using the Google API in <a href="../../Setup/SuperUser/API-Keys/">API Keys</a>.</p>
-<p><img alt="AutoComplete" src="/.attachments/Documentation/Customer-AutoComplete.png" title="AutoComplete" /></p>
+<p><img alt="AutoComplete" src="../../../.attachments/Documentation/Customer-AutoComplete.png" title="AutoComplete" /></p>
 <p>Clicking on one of the suggestions will fill out the rest of the field with the results.</p>
-<p><img alt="AutoComplete Done" src="/.attachments/Documentation/Customer-AutoComplete-Done.png" title="AutoComplete Done" /></p>
+<p><img alt="AutoComplete Done" src="../../../.attachments/Documentation/Customer-AutoComplete-Done.png" title="AutoComplete Done" /></p>
 <h2 id="billing-address">Billing Address</h2>
 <p>A separate billing address can be save when the bill is to be sent to a different address than the garments are to be sent to.</p>
-<p><img alt="Use Billing Address" src="/.attachments/Documentation/Customer-UseBillingAddress.png" title="Use Billing Address" /></p>
-<p><img alt="Billing Address" src="/.attachments/Documentation/Customer-BillingAddress.png" title="Billing Address" /></p>
+<p><img alt="Use Billing Address" src="../../../.attachments/Documentation/Customer-UseBillingAddress.png" title="Use Billing Address" /></p>
+<p><img alt="Billing Address" src="../../../.attachments/Documentation/Customer-BillingAddress.png" title="Billing Address" /></p>
 <h2 id="distance-matrix">Distance Matrix</h2>
 <blockquote>
 <p>❗ Not fully implemented</p>
 </blockquote>
 <p>A distance matrix value can be calculated on an address getting the distance from the main depot set in the Route Origin Address in <a href="../../Setup/Manager/System/">Setup&gt;System</a>. This to be used in the route calculation system.</p>
-<p><img alt="Distance Matrix" src="/.attachments/Documentation/Customer-DistanceMatrix.png" title="Distance Matrix" /></p>
-<p><img alt="Distance Matrix Button" src="/.attachments/Documentation/Customer-DistanceMatrix-Button.png" title="Distance Matrix Button" /></p>
+<p><img alt="Distance Matrix" src="../../../.attachments/Documentation/Customer-DistanceMatrix.png" title="Distance Matrix" /></p>
+<p><img alt="Distance Matrix Button" src="../../../.attachments/Documentation/Customer-DistanceMatrix-Button.png" title="Distance Matrix Button" /></p>
 <p>Once the load button is pressed the API will attempt to validate the address. It can sometimes be wrong so it is a good idea to verify that the address found matches.</p>
-<p><img alt="Distance Matrix Address Check" src="/.attachments/Documentation/Customer-DistanceMatrix-AddressCheck.png" title="Distance Matrix Address Check" /></p>
-<p><img alt="Distance Matrix Loaded" src="/.attachments/Documentation/Customer-DistanceMatrix-Loaded.png" title="Distance Matrix Loaded" /></p>
+<p><img alt="Distance Matrix Address Check" src="../../../.attachments/Documentation/Customer-DistanceMatrix-AddressCheck.png" title="Distance Matrix Address Check" /></p>
+<p><img alt="Distance Matrix Loaded" src="../../../.attachments/Documentation/Customer-DistanceMatrix-Loaded.png" title="Distance Matrix Loaded" /></p>
 <h2 id="email-validation">Email Validation</h2>
 <p>Send an validation Email to a customer to ensure that the email is set correctly.</p>
-<p><img alt="Email Validation" src="/.attachments/Documentation/Customer-EmailValidation.png" title="Email Validation" /></p>
-<p><img alt="Email Validation Complete" src="/.attachments/Documentation/Customer-EmailValidation-Complete.png" title="Email Validation Complete" /></p>
+<p><img alt="Email Validation" src="../../../.attachments/Documentation/Customer-EmailValidation.png" title="Email Validation" /></p>
+<p><img alt="Email Validation Complete" src="../../../.attachments/Documentation/Customer-EmailValidation-Complete.png" title="Email Validation Complete" /></p>
 <h2 id="manager-properties">Manager Properties</h2>
 <p>Some properties need to have manager approval to change so the manager properties section is locked down with a requirement for an administrator password.</p>
-<p><img alt="Manager Properties" src="/.attachments/Documentation/Customer-ManagerProperties.png" title="Manager Properties" /></p>
+<p><img alt="Manager Properties" src="../../../.attachments/Documentation/Customer-ManagerProperties.png" title="Manager Properties" /></p>
 <p>Once in the manager properties it is possible to cancel with the cancel button.</p>
-<p><img alt="Manager Properties Cancel" src="/.attachments/Documentation/Customer-ManagerProperties-Cancel.png" title="Manager Properties Cancel" /></p></div>
+<p><img alt="Manager Properties Cancel" src="../../../.attachments/Documentation/Customer-ManagerProperties-Cancel.png" title="Manager Properties Cancel" /></p></div>
             </div>
         </div>
 
@@ -550,29 +545,8 @@
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../../js/base.js"></script>
-        <script src="../../../search/main.js"></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4 class="modal-title" id="searchModalLabel">Search</h4>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-            </div>
-            <div class="modal-body">
-                <p>From here you can search these documents. Enter your search terms below.</p>
-                <form>
-                    <div class="form-group">
-                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
-                    </div>
-                </form>
-                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
-            </div>
-            <div class="modal-footer">
-            </div>
-        </div>
-    </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+        <div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
