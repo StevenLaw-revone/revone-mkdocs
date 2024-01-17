@@ -1,0 +1,7 @@
+# Manager
+
+Functions only available to managers
+
+![Manager](/.attachments/Documentation/Manager.png "Manager")
+
+[[_TOSP_]]
