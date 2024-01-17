@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../../img/favicon.ico">
-        <title>View Tag Status/View Invoice Status — VTS/VIS - My Docs</title>
+        <title>View Tag Status/View Invoice Status — VTS/VIS - revONE Documentation</title>
         <link href="../../../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../../css/base.css" rel="stylesheet">
@@ -20,7 +20,7 @@
     <body>
         <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-                <a class="navbar-brand" href="../../../..">My Docs</a>
+                <a class="navbar-brand" href="../../../..">revONE Documentation</a>
                 <!-- Expander button -->
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
                     <span class="navbar-toggler-icon"></span>
@@ -443,11 +443,6 @@
                         </ul>
 
                     <ul class="nav navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
-                                <i class="fa fa-search"></i> Search
-                            </a>
-                        </li>
                             <li class="nav-item">
                                 <a rel="prev" href="../SMS-Suppression-Report-%E2%80%94-SSR/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
@@ -513,25 +508,25 @@
 <p>View Tag Status (VTS) pulls the main window without any pre-set search while View Invoice Status (VIS) pre-sets an invoice search for the currently loaded invoice</p>
 <h2 id="search-types">Search types</h2>
 <p>It is possible to search by Tag, Invoice number, or Customer using the top three buttons (F2, F3, F4). The VIS version of the command skips this and jumps directly to searching by invoice using the currently displayed invoice.</p>
-<p><img alt="image.png" src="/.attachments/Documentation/ViewTagStatus01.png" /></p>
+<p><img alt="image.png" src="../../../../.attachments/Documentation/ViewTagStatus01.png" /></p>
 <h2 id="search">Search</h2>
 <p>Once the search is initiated it will pull up all the tags that match the criteria up to the selected limit.</p>
-<p><img alt="image.png" src="/.attachments/Documentation/ViewTagStatus02.png" /></p>
+<p><img alt="image.png" src="../../../../.attachments/Documentation/ViewTagStatus02.png" /></p>
 <h2 id="view-search-log">View Search Log</h2>
 <p>View Search Log displays a list of history on the current search in a different screen.</p>
-<p><img alt="image.png" src="/.attachments/Documentation/ViewTagStatus06.png" /></p>
+<p><img alt="image.png" src="../../../../.attachments/Documentation/ViewTagStatus06.png" /></p>
 <h2 id="load-tag-history">Load Tag History</h2>
 <p>Load Tag History will load the history of the selected tag from the database. The command timeout is disabled for this request as the search can take a significant amount of time (upwards of 10 minutes) as such this procedure comes with a time elapsed indicator and a cancel button in case the search needs to be aborted to allow for other work to be done.</p>
-<p><img alt="image.png" src="/.attachments/Documentation/ViewTagStatus03.png" /></p>
+<p><img alt="image.png" src="../../../../.attachments/Documentation/ViewTagStatus03.png" /></p>
 <p>Once the search is complete the history will displayed in the bottom half of the screen.</p>
-<p><img alt="image.png" src="/.attachments/Documentation/ViewTagStatus04.png" /></p>
+<p><img alt="image.png" src="../../../../.attachments/Documentation/ViewTagStatus04.png" /></p>
 <p>This table is large enough to require a horizontal scrollbar to display the rest of the data.</p>
-<p><img alt="image.png" src="/.attachments/Documentation/ViewTagStatus05.png" /></p>
+<p><img alt="image.png" src="../../../../.attachments/Documentation/ViewTagStatus05.png" /></p>
 <h2 id="invalidate-tag">Invalidate Tag</h2>
-<p>Invalidates the tag on the database to allow <a href="/Documentation/Functions/Heat-Seal-Tags.md">Heat Seal Tags</a> to be reused.</p>
+<p>Invalidates the tag on the database to allow <a href="../../../Functions/Heat-Seal-Tags/">Heat Seal Tags</a> to be reused.</p>
 <h2 id="search-for-status">Search For Status</h2>
 <p>Limits the history search to a specific status to search for. The most common one is likely to be the "Confirmation of bagging" which indicates the exact time that the bagger confirmed the garment was loaded.</p>
-<p><img alt="image.png" src="/.attachments/Documentation/ViewTagStatus07.png" /></p></div>
+<p><img alt="image.png" src="../../../../.attachments/Documentation/ViewTagStatus07.png" /></p></div>
             </div>
         </div>
 
@@ -546,29 +541,8 @@
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../../../js/base.js"></script>
-        <script src="../../../../search/main.js"></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4 class="modal-title" id="searchModalLabel">Search</h4>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-            </div>
-            <div class="modal-body">
-                <p>From here you can search these documents. Enter your search terms below.</p>
-                <form>
-                    <div class="form-group">
-                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
-                    </div>
-                </form>
-                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
-            </div>
-            <div class="modal-footer">
-            </div>
-        </div>
-    </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+        <div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">

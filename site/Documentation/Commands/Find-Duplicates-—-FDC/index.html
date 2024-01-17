@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>Find Duplicates — FDC - My Docs</title>
+        <title>Find Duplicates — FDC - revONE Documentation</title>
         <link href="../../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -20,7 +20,7 @@
     <body>
         <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-                <a class="navbar-brand" href="../../..">My Docs</a>
+                <a class="navbar-brand" href="../../..">revONE Documentation</a>
                 <!-- Expander button -->
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
                     <span class="navbar-toggler-icon"></span>
@@ -443,11 +443,6 @@
                         </ul>
 
                     <ul class="nav navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
-                                <i class="fa fa-search"></i> Search
-                            </a>
-                        </li>
                             <li class="nav-item">
                                 <a rel="prev" href="../Edit-Credit-Card-%E2%80%94-ECC/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
@@ -487,15 +482,15 @@
 
 <h1 id="find-duplicates-fdc">Find Duplicates — FDC</h1>
 <p>Finds duplicate customer records and opens the ability to join them to similarly named customers. This uses a fuzzy compare function that generates a similarity rating and compares it to a threshold. This is to allow customers with spelling errors and typos to be compared.</p>
-<p><img alt="Main" src="/.attachments/Documentation/FindDuplicateCustomers01.png" title="Main" /></p>
+<p><img alt="Main" src="../../../.attachments/Documentation/FindDuplicateCustomers01.png" title="Main" /></p>
 <p>The find function requires a button press so that the threshold and years since last in can be set before undertaking the rather lengthy comparison process</p>
-<p><img alt="Find Duplicates" src="/.attachments/Documentation/FindDuplicateCustomers02.png" title="Find Duplicates" /></p>
+<p><img alt="Find Duplicates" src="../../../.attachments/Documentation/FindDuplicateCustomers02.png" title="Find Duplicates" /></p>
 <p>Once duplicates are found they will be listed with the number of different customer records found</p>
-<p><img alt="Duplicates" src="/.attachments/Documentation/FindDuplicateCustomers03.png" title="Duplicates" /></p>
+<p><img alt="Duplicates" src="../../../.attachments/Documentation/FindDuplicateCustomers03.png" title="Duplicates" /></p>
 <p>Clicking the <code>+</code> button will open a list of the records found allowing them to be selected for joining</p>
-<p><img alt="Details" src="/.attachments/Documentation/FindDuplicateCustomers04.png" title="Details" /></p>
+<p><img alt="Details" src="../../../.attachments/Documentation/FindDuplicateCustomers04.png" title="Details" /></p>
 <p>There are several conditions that make joining impossible without further work and a popup will be displayed if this is found</p>
-<p><img alt="Has Routes" src="/.attachments/Documentation/FindDuplicateCustomers-Route.png" title="Has Routes" /></p></div>
+<p><img alt="Has Routes" src="../../../.attachments/Documentation/FindDuplicateCustomers-Route.png" title="Has Routes" /></p></div>
             </div>
         </div>
 
@@ -510,29 +505,8 @@
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../../js/base.js"></script>
-        <script src="../../../search/main.js"></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4 class="modal-title" id="searchModalLabel">Search</h4>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-            </div>
-            <div class="modal-body">
-                <p>From here you can search these documents. Enter your search terms below.</p>
-                <form>
-                    <div class="form-group">
-                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
-                    </div>
-                </form>
-                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
-            </div>
-            <div class="modal-footer">
-            </div>
-        </div>
-    </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+        <div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">

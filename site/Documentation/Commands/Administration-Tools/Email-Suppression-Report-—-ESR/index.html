@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../../img/favicon.ico">
-        <title>Email Suppression Report — ESR - My Docs</title>
+        <title>Email Suppression Report — ESR - revONE Documentation</title>
         <link href="../../../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../../css/base.css" rel="stylesheet">
@@ -20,7 +20,7 @@
     <body>
         <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-                <a class="navbar-brand" href="../../../..">My Docs</a>
+                <a class="navbar-brand" href="../../../..">revONE Documentation</a>
                 <!-- Expander button -->
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
                     <span class="navbar-toggler-icon"></span>
@@ -443,11 +443,6 @@
                         </ul>
 
                     <ul class="nav navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
-                                <i class="fa fa-search"></i> Search
-                            </a>
-                        </li>
                             <li class="nav-item">
                                 <a rel="prev" href="../Deactivate-Old-Customers-%E2%80%94-DOC/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
@@ -488,25 +483,25 @@
 <h1 id="email-suppression-report-esr">Email Suppression Report — ESR</h1>
 <p>Pulls down a comparison of the Email Suppression list from the Amazon Web Services API with existing emails in active customers.</p>
 <p>The API Settings are found in Setup&gt;API Keys which requires SuperUser authorization</p>
-<p><img alt="API Settings" src="/.attachments/Documentation/EmailSuppressionReport-ApiSettings.png" title="API Settings" /></p>
+<p><img alt="API Settings" src="../../../../.attachments/Documentation/EmailSuppressionReport-ApiSettings.png" title="API Settings" /></p>
 <p>Once the report is loaded it will display all customers who's email has bee suppressed</p>
-<p><img alt="Main" src="/.attachments/Documentation/EmailSuppressionReport.png" title="Main" /></p>
-<p><img alt="Buttons" src="/.attachments/Documentation/EmailSuppressionReport-Buttons.png" title="Buttons" /></p>
+<p><img alt="Main" src="../../../../.attachments/Documentation/EmailSuppressionReport.png" title="Main" /></p>
+<p><img alt="Buttons" src="../../../../.attachments/Documentation/EmailSuppressionReport-Buttons.png" title="Buttons" /></p>
 <h3 id="edit-email">Edit Email</h3>
 <p>If the email is a typo then it can be edited from within the window</p>
-<p><img alt="Edit Email" src="/.attachments/Documentation/EmailSuppressionReport-EditEmail.png" title="Edit Email" /></p>
+<p><img alt="Edit Email" src="../../../../.attachments/Documentation/EmailSuppressionReport-EditEmail.png" title="Edit Email" /></p>
 <p>The new email must be different from the original one</p>
-<p><img alt="Same Email" src="/.attachments/Documentation/EmailSuppressionReport-SameEmail.png" title="Same Email" /></p>
+<p><img alt="Same Email" src="../../../../.attachments/Documentation/EmailSuppressionReport-SameEmail.png" title="Same Email" /></p>
 <h3 id="export-raw-suppressions">Export Raw Suppressions</h3>
 <p>The raw suppression list can be exported to a CSV file</p>
 <h3 id="save-suppression-flags">Save Suppression Flags</h3>
 <p>Save the suppression to the customer's data allowing it to be seen by employees for correction when interacting with the customer</p>
 <p>In the customer summary</p>
-<p><img alt="Suppressed Flag — Summary" src="/.attachments/Documentation/EmailSuppressionReport-SuppressedFlag.png" title="Suppressed Flag — Summary" /></p>
+<p><img alt="Suppressed Flag — Summary" src="../../../../.attachments/Documentation/EmailSuppressionReport-SuppressedFlag.png" title="Suppressed Flag — Summary" /></p>
 <p>In the customer's edit page</p>
-<p><img alt="Suppressed Flag — Edit" src="/.attachments/Documentation/EmailSuppressionReport-Edit-SuppressedFlag.png" title="Suppressed Flag — Edit" /></p>
+<p><img alt="Suppressed Flag — Edit" src="../../../../.attachments/Documentation/EmailSuppressionReport-Edit-SuppressedFlag.png" title="Suppressed Flag — Edit" /></p>
 <p>Clicking on the email in the summary or the suppressed flag in the edit window will show a short explanation of the suppression</p>
-<p><img alt="Suppression Reason" src="/.attachments/Documentation/EmailSuppressionReport-SuppressionReason.png" title="Suppression Reason" /></p></div>
+<p><img alt="Suppression Reason" src="../../../../.attachments/Documentation/EmailSuppressionReport-SuppressionReason.png" title="Suppression Reason" /></p></div>
             </div>
         </div>
 
@@ -521,29 +516,8 @@
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../../../js/base.js"></script>
-        <script src="../../../../search/main.js"></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4 class="modal-title" id="searchModalLabel">Search</h4>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-            </div>
-            <div class="modal-body">
-                <p>From here you can search these documents. Enter your search terms below.</p>
-                <form>
-                    <div class="form-group">
-                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
-                    </div>
-                </form>
-                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
-            </div>
-            <div class="modal-footer">
-            </div>
-        </div>
-    </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+        <div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
