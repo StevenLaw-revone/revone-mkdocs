@@ -12,4 +12,4 @@ Messages are periodically sent to customers on various triggers using the AWS Pi
 | Delivery Issue | ❗ _Removing pickup date? not sure why_ | Indicates that there was an issue with the delivery |
 | Garment Issue | On saving a garment issue | Alerts the customer that an issue with the garment has been found and logged. |
 
-[Email/Messaging](/Documentation/Setup/Manager/Email|Messaging)
+[Email/Messaging](../Setup/Manager/Email%257CMessaging.md)

@@ -6,7 +6,7 @@ In order to use Metal Progetti you need to activate it in the [Setup>Invoices](.
 
 ![Activate Setting](../../.attachments/Documentation/MetalProgetti_Settings.png "Activate Setting")
 
-### [View Tag/Invoice Status](/Documentation/Commands/Administration-Tools/View-Tag-Status-|-View-Invoice-Status-—-VTS|VIS)
+### [View Tag/Invoice Status](../Commands/Administration-Tools/View-Tag-Status-%257C-View-Invoice-Status-—-VTS%257CVIS.md)
 
 In order to get some insight about how an invoices items are doing on the Metal Progetti system the View Tag/Invoice Status commands can be used.
 

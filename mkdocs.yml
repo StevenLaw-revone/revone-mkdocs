@@ -1,3 +1,5 @@
 site_name: revONE Documentation
+exclude_docs: |
+  !.attachments/
 plugins:
   - abs-to-rel
