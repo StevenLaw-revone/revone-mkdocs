@@ -3,3 +3,4 @@ exclude_docs: |
   !.attachments/
 plugins:
   - abs-to-rel
+  - search
