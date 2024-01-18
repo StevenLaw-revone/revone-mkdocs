@@ -1,0 +1,9 @@
+# Setup
+
+Functions in the setup menu
+
+![Setup](/.attachments/Documentation/Setup.png "Setup")
+
+![Setup with SuperUser showing](/.attachments/Documentation/Setup-SuperUser.png "Setup with SuperUser showing")
+
+[[_TOSP_]]
