@@ -12,7 +12,7 @@ Once the report is loaded it will display all customers who's email has bee supp
 
 ![Buttons](/.attachments/Documentation/EmailSuppressionReport-Buttons.png "Buttons")
 
-### Edit Email
+## Edit Email
 
 If the email is a typo then it can be edited from within the window
 
@@ -22,11 +22,11 @@ The new email must be different from the original one
 
 ![Same Email](/.attachments/Documentation/EmailSuppressionReport-SameEmail.png "Same Email")
 
-### Export Raw Suppressions
+## Export Raw Suppressions
 
 The raw suppression list can be exported to a CSV file
 
-### Save Suppression Flags
+## Save Suppression Flags
 
 Save the suppression to the customer's data allowing it to be seen by employees for correction when interacting with the customer
 

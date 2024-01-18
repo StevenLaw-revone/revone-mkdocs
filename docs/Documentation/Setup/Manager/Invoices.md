@@ -34,13 +34,13 @@ Settings relating to invoices.
 | Use POS Printer | Use the POS Printer utility. Bundled in the store version and should launch if it is not open on attempting to print. |
 | Launch POS Printer | Attempt to launch the POS Printer. |
 
-### Use Metal Progetti
+## Use Metal Progetti
 
 In order to disable the Metal Progetti system on a permanent bases requires SuperUser permission. Overriding the setting will temporarily disable the setting for the local system. 
 
 ![Use Metal Progetti](/.attachments/Documentation/Invoices-UseMP.png "Use Metal Progetti")
 
-### Invoice Message
+## Invoice Message
 
 The dialog used to set the message being printed on the invoice receipt.
 

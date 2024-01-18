@@ -2,7 +2,7 @@
 
 > ❗ Incomplete function. The route calculation part of the distance matrix is not yet functional
 
-### Customer Edit
+## Customer Edit
 
 The Distance Matrix is used to calculate the shortest route for different customer's. In the Customer Edit section is a [Distance Matrix section](../Functions/Customer-Editing.md#distance-matrix).
 
@@ -18,7 +18,7 @@ Once the load button is pressed the API will attempt to validate the address. It
 
 ![Loaded](../../.attachments/Documentation/Customer-DistanceMatrix-Loaded.png "Loaded")
 
-### Database Check Step
+## Database Check Step
 
 There is another part in the [Database Setup Check Steps](Database-Setup.md#check-steps) where it is possible to enable the "Fetch next 200 Distance Matrices" step. It is limited to 200 to prevent overwhelming the service.
 

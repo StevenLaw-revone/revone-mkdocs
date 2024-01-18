@@ -4,13 +4,13 @@ Allows Employee Files to be edited; setting the employee info, access level, set
 
 ![Main](/.attachments/Documentation/EmployeeFile.png "Main")
 
-### Front Counter
+## Front Counter
 
 The Front Counter level employees only have access to their own account in this field allowing them to modify their password as well as their own data. They do not have access to Access Level, Default Account Manager, or Termination status
 
 ![Front Counter](/.attachments/Documentation/EmployeeFile-FrontCounter.png "Front Counter")
 
-### SuperUser
+## SuperUser
 
 Only the SuperUser can see the Super user in the list:
 

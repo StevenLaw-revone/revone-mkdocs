@@ -478,6 +478,10 @@
             
             <li class="nav-item" data-level="1"><a href="#find-duplicate-customers-fdc" class="nav-link">Find Duplicate Customers — FDC</a>
               <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#similarity-threshold" class="nav-link">Similarity Threshold</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
               </ul>
             </li>
         </ul>
@@ -488,7 +492,7 @@
 <h1 id="find-duplicate-customers-fdc">Find Duplicate Customers — FDC</h1>
 <p>Used to find duplicate customers based on name similarity to attempt to join customers with potential misspellings</p>
 <p><img alt="image.png" src="../../../../.attachments/Documentation/FindDuplicateCustomers01.png" /></p>
-<h3 id="similarity-threshold">Similarity Threshold</h3>
+<h2 id="similarity-threshold">Similarity Threshold</h2>
 <p>This function relies on using a fuzzy comparison routine that produces a similarity rating between 0 and 100 for how similar two names are. The threshold is the level above which the customers will be considered to have similar names. If the number is lowered there will be more false matches but bigger spelling mistakes are likely to be found.</p>
 <p>In order to search for matches the <code>Find Duplicates</code> button must be pressed as the process can take quite a while.</p>
 <p><img alt="image.png" src="../../../../.attachments/Documentation/FindDuplicateCustomers02.png" /></p>

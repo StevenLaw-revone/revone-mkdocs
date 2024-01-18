@@ -1,0 +1,11 @@
+# Backup files
+*.bak
+*.kra
+*~
+
+# Workspace configuration
+*.code-workspace
+settings.json
+
+# Personal Notes
+*.note

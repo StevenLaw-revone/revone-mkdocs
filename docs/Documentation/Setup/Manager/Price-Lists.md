@@ -4,7 +4,7 @@ Setup the price lists where the customer's item prices are set in.
 
 ![Price Lists](/.attachments/Documentation/PriceLists.png "Price Lists")
 
-### Item Fields
+## Item Fields
 
 ![Fields](/.attachments/Documentation/PriceLists-Options.png "Fields")
 
@@ -28,31 +28,31 @@ Setup the price lists where the customer's item prices are set in.
 | Disclaimer | Notes about the item |
 | Print in bold | Print the item in bold ❗ _May not be in use_ |
 
-### Default Price List
+## Default Price List
 
 Sets the default price list that a new customer will be automatically set as.
 
 ![Default Price List](/.attachments/Documentation/PriceLists-DefaultPriceList.png "Default Price List")
 
-### Change All Prices
+## Change All Prices
 
 Changes all price by a percentage. Can limit the change to specific categories.
 
 ![Change All Prices](/.attachments/Documentation/PriceLists-ChangeAllPrices.png "Change All Prices")
 
-### Print
+## Print
 
 Generates a price list report and sends it to the local print dialog.
 
 ![Print](/.attachments/Documentation/PriceLists-Print.png "Print")
 
-### Sub List
+## Sub List
 
 Set up a sub-list.
 
 ![Sub List](/.attachments/Documentation/PriceLists-SubList.png "Sub List")
 
-### Price Lists
+## Price Lists
 
 Add or edit price lists.
 
@@ -66,13 +66,13 @@ After choosing to create a blank or copy the name and description of the price l
 
 ![New Price List Name](/.attachments/Documentation/PriceLists-NewPriceListName.png "New Price List Name")
 
-### Copy to Other List
+## Copy to Other List
 
 Copies the contents of one price list to another.
 
 ![Copy to Other List](/.attachments/Documentation/PriceLists-CopyToOtherList.png "Copy to Other List")
 
-### Upcharge
+## Upcharge
 
 Set upcharges for the current item
 
@@ -82,7 +82,7 @@ If an item doesn't have an upcharge name then the option to create a new upcharg
 
 ![Upcharge](/.attachments/Documentation/PriceLists-Upcharge-New.png "Upcharge")
 
-### Categories
+## Categories
 
 Set the available categories and sub-categories.
 

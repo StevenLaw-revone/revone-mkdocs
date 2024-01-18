@@ -18,19 +18,19 @@ It will not allow the new cellphone to match the current one.
 
 ![Error](/.attachments/Documentation/SmsSuppressionReport-Error.png "Error")
 
-### Export Raw Suppressions
+## Export Raw Suppressions
 
 Prompts the user to save the Opt Out list to a CSV file.
 
-### Save Suppression Flags
+## Save Suppression Flags
 
 Saves a flag to the customer indicating that the customer's cellphone number is suppressed.
 
-### Reload
+## Reload
 
 Reloads the list to account for changes to the database.
 
-### Go To Customer 
+## Go To Customer 
 
 Jumps to the customer in question so that more information can be inspected/edited
 

@@ -8,7 +8,7 @@ When adding or editing a route the name and drive fields appear below.
 
 ![Add/Edit](/.attachments/Documentation/ChangeRoutes-AddEdit.png "Add/Edit")
 
-### Change Days
+## Change Days
 
 The `Change Days` function allow the available days as well as an indication of how many people are set to each category on each day
 
@@ -36,7 +36,7 @@ By selecting an original day and no new day the Delete button allows the custome
 
 By selecting both an original and new day the Move button allows the customers on the original day to be moved to the new day.
 
-### Change Order
+## Change Order
 
 Allows the order of the customers in a route to be customized.
 

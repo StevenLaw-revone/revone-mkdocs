@@ -16,17 +16,17 @@ Selecting a customer will display the update changes that will occur
 
 ![Customer Updates 3](/.attachments/Documentation/CustomerUpdates03.png "Customer Updates 3")
 
-### Fuzzy Search
+## Fuzzy Search
 
 The Fuzzy Search function searches for existing customers that vary due to spelling mistakes or typos. Select the part of the name to search on and it will compare with existing customers based on a similarity rating
 
 ![Fuzzy Search Dropdown](/.attachments/Documentation/CustomerUpdates-FuzzySearchMenu.png "Fuzzy Search Dropdown")
 ![Fuzzy Search Results](/.attachments/Documentation/CustomerUpdates-FuzzySearch.png "Fuzzy Search Results")
 
-### Delete
+## Delete
 
 Allows update requests to be deleted in case of accidental insertion or bad requests
 
-### Update/Add
+## Update/Add
 
 Updates or adds the selected customer

@@ -2,7 +2,7 @@
 
 Used to generate statements, and statement discounts, for customers.
 
-### Parameters
+## Parameters
 
 The frequency type and invoice date range need to be selected before any statement is generated. The month drop down will set the Start and End dates to the specified month (if the month hasn't occurred yet it will set to that month last year)
 
@@ -22,7 +22,7 @@ The full list of options is available to be set in the Setup>Charge Account Freq
 
 ![Buttons](/.attachments/Documentation/MonthlyChargeAccounts-Buttons.png "Buttons")
 
-### Generating Statements
+## Generating Statements
 
 Once in the main MCA window you need to select the customers that you want to send the statements to
 
@@ -34,6 +34,6 @@ The Create Statement Discount button when checked will create a statement discou
 
 The "Save email statements instead of sending" button will instead create the file for all customers even ones set up to receive emailed statements. This allows a statement to be created without sending to the customer
 
-### Send Check Spam Folder Email
+## Send Check Spam Folder Email
 
 This sends a simple email using a template in setup to ask the customer to check their spam folder page as some email providers filter emails with attachments to spam
