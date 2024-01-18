@@ -1,6 +1,106 @@
 site_name: revONE Documentation
+nav:
+  - index.md
+  - Commands:
+    - Documentation\Commands.md
+    - Documentation\Commands\Add%7CChange%7CSave-Credit-Card-—-ACC%7CCCC%7CSCC.md
+    - 'Administration Tools':
+      - Documentation\Commands\Administration-Tools.md
+      - Documentation\Commands\Administration-Tools\Clean-up-Data-—-CLN.md
+      - Documentation\Commands\Administration-Tools\Deactivate-Old-Customers-—-DOC.md
+      - Documentation\Commands\Administration-Tools\Email-Suppression-Report-—-ESR.md
+      - Documentation\Commands\Administration-Tools\Find-Duplicate-Customers-—-FDC.md
+      - Documentation\Commands\Administration-Tools\Manage-Failed-Messages-—-MM.md
+      - Documentation\Commands\Administration-Tools\Pick-Up-Route-—-PUR.md
+      - Documentation\Commands\Administration-Tools\Remove-Empty-Invoices-—-REI.md
+      - Documentation\Commands\Administration-Tools\SMS-Suppression-Report-—-SSR.md
+      - Documentation\Commands\Administration-Tools\View-Tag-Status-%7C-View-Invoice-Status-—-VTS%7CVIS.md
+      - Documentation\Commands\Administration-Tools\Write-Off-Bulk-—-WOB.md
+    - Documentation\Commands\Batch-Payment-—-B.md
+    - Documentation\Commands\Cash-In%7COut-—-CAI%7CCAO.md
+    - Documentation\Commands\Customer-Updates-—-CU.md
+    - Documentation\Commands\Deactivate-Old-Customers-—-DOC.md
+    - Documentation\Commands\Edit-Credit-Card-—-ECC.md
+    - Documentation\Commands\Find-Duplicates-—-FDC.md
+    - 'Heat Seal Commands':
+      - Documentation\Commands\Heat-Seal-Commands.md
+      - Documentation\Commands\Heat-Seal-Commands\Add-Heat-Seal-Tag-—-AHT.md
+      - Documentation\Commands\Heat-Seal-Commands\Change-Heat-Seal-Tag-—-CHT.md
+    - Documentation\Commands\Monthly-Charge-Accounts-—-MCA.md
+    - Documentation\Commands\Multiple-Locations-—-ML.md
+    - Documentation\Commands\Multiple-Pickup-—-MU.md
+    - Documentation\Commands\Price-Check-—-PC%7CPCC.md
+    - Documentation\Commands\Print-Sub-Invoice-—-PSI.md
+    - Documentation\Commands\Process-Card-Errors-—-PCE.md
+    - Documentation\Commands\Process-Charge-Accounts-—-PCA.md
+    - Documentation\Commands\Put-Overage-on-Account-—-PUL.md
+    - Documentation\Commands\Re%2DScan-Inventory-—-RSI.md
+    - Documentation\Commands\Remove-Credit-Card-—-RCC.md
+    - Documentation\Commands\Send-Pickup-Emails-—-SPE.md
+    - Documentation\Commands\Set-Pick-Up-Location-—-PUL.md
+    - Documentation\Commands\Terminal-Commands-—-TS%7CTR%7CTV.md
+  - Functions:
+    - Documentation\Functions.md
+    - Documentation\Functions\Command-Lookup.md
+    - Documentation\Functions\Credit-Card.md
+    - Documentation\Functions\Customer-Editing.md
+    - Documentation\Functions\Database-Setup.md
+    - Documentation\Functions\Distance-Matrix.md
+    - Documentation\Functions\Garment-Issues.md
+    - Documentation\Functions\Garment-Measurement.md
+    - Documentation\Functions\Heat-Seal-Tags.md
+    - Documentation\Functions\Messaging.md
+    - Documentation\Functions\Metal-Progetti.md
+    - More:
+      - Documentation\Functions\More.md
+      - Documentation\Functions\More\Find.md
+      - Documentation\Functions\More\Reports.md
+  - Setup:
+    - Documentation\Setup.md
+    - 'All Employees':
+      - Documentation\Setup\All-Employees.md
+      - Documentation\Setup\All-Employees\Employee-File.md
+      - Documentation\Setup\All-Employees\Garment-Colours.md
+      - Documentation\Setup\All-Employees\Receipt.md
+      - Documentation\Setup\All-Employees\Update.md
+    - Manager:
+      - Documentation\Setup\Manager.md
+      - Documentation\Setup\Manager\Brands.md
+      - Documentation\Setup\Manager\Cash-Drawer.md
+      - Documentation\Setup\Manager\Change-Routes.md
+      - Documentation\Setup\Manager\Charge-Account-Frequencies.md
+      - Documentation\Setup\Manager\Company.md
+      - Documentation\Setup\Manager\Coupons.md
+      - Documentation\Setup\Manager\Credit-Card.md
+      - Documentation\Setup\Manager\Customer-Codes.md
+      - Documentation\Setup\Manager\Email%7CMessaging.md
+      - Documentation\Setup\Manager\Invoice-Locks.md
+      - Documentation\Setup\Manager\Invoices.md
+      - Documentation\Setup\Manager\Price-Lists.md
+      - Documentation\Setup\Manager\Price-List-Comparator.md
+      - Documentation\Setup\Manager\Ready-By-Defaults.md
+      - Documentation\Setup\Manager\Receipt-Coupon.md
+      - Documentation\Setup\Manager\Statement-Groups.md
+      - Documentation\Setup\Manager\Statement-Groups-Lists.md
+      - Documentation\Setup\Manager\Store-Locations.md
+      - Documentation\Setup\Manager\System.md
+      - Documentation\Setup\Manager\Tags.md
+      - Documentation\Setup\Manager\Taxes.md
+      - Documentation\Setup\Manager\Text-Prompts.md
+      - Documentation\Setup\Manager\Time-Card.md
+    - SuperUser:
+      - Documentation\Setup\SuperUser.md
+      - Documentation\Setup\SuperUser\API-Keys.md
+      - Documentation\Setup\SuperUser\Error-Notification.md
+      - Documentation\Setup\SuperUser\External-Links.md
+      - Documentation\Setup\SuperUser\Recurring-Messages.md
+      - Documentation\Setup\SuperUser\SMS-Processor.md
+      - Documentation\Setup\SuperUser\Terminal.md
+      - Documentation\Setup\SuperUser\Virtual-Terminal.md
 exclude_docs: |
   !.attachments/
+# theme:
+#   readthedocs
 plugins:
   - abs-to-rel
   - search
