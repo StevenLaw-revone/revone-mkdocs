@@ -1,6 +1,6 @@
-# revONE Documentation
+# Home
 
-> - [](Documentation/Commands.md)
+> - [Commands](Documentation/Commands.md)
 >     - [Commands](Documentation/Commands.md)
 >         - [Add/Change/Save Credit Card — ACC/CCC/SCC](Documentation/Commands/Add%257CChange%257CSave-Credit-Card-—-ACC%257CCCC%257CSCC.md)
 >         - [Administration Tools](Documentation/Commands/Administration-Tools.md)
@@ -36,7 +36,7 @@
 >         - [Send Pickup Emails — SPE](Documentation/Commands/Send-Pickup-Emails-—-SPE.md)
 >         - [Set Pick Up Location — PUL](Documentation/Commands/Set-Pick-Up-Location-—-PUL.md)
 >         - [Terminal Commands — TS/TR/TV](Documentation/Commands/Terminal-Commands-—-TS%257CTR%257CTV.md)
-> - [](Documentation/Functions.md)
+> - [Functions](Documentation/Functions.md)
 >     - [Command Lookup](Documentation/Functions/Command-Lookup.md)
 >     - [Credit Card](Documentation/Functions/Credit-Card.md)
 >     - [Customer Editing](Documentation/Functions/Customer-Editing.md)
@@ -48,7 +48,7 @@
 >     - [Messaging](Documentation/Functions/Messaging.md)
 >     - [Metal Progetti](Documentation/Functions/Metal-Progetti.md)
 >     - [More](Documentation/Functions/More.md)
-> - [](Documentation/Setup.md)
+> - [Setup](Documentation/Setup.md)
 >     - [All Employees](Documentation/Setup/All-Employees.md)
 >         - [Employee File](Documentation/Setup/All-Employees/Employee-File.md)
 >         - [Garment-Colours](Documentation/Setup/All-Employees/Garment-Colours.md)
