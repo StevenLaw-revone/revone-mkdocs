@@ -99,6 +99,8 @@ nav:
       - Documentation\Setup\SuperUser\Virtual-Terminal.md
 exclude_docs: |
   !.attachments/
+copyright:
+  Copyright © 2024 revONE
 # theme:
 #   readthedocs
 plugins:
