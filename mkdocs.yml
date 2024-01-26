@@ -41,6 +41,7 @@ nav:
     - Documentation\Commands\Terminal-Commands-—-TS%7CTR%7CTV.md
   - Functions:
     - Documentation\Functions.md
+    - Documentation\Functions\Active-Promotions.md
     - Documentation\Functions\Command-Lookup.md
     - Documentation\Functions\Credit-Card.md
     - Documentation\Functions\Customer-Editing.md
