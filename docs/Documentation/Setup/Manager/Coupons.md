@@ -16,6 +16,10 @@ When adding or editing a coupon the coupons details will be enabled. The "is a s
 
 ![Edit](/.attachments/Documentation/Coupons-Edit.png "Edit")
 
+### Promotion
+
+There is a checkbox marked promotion next to the Active checkbox that controls whether or not the function appears in the [Active Promotions](../../Functions/Active-Promotions.md) window.
+
 ## Add Rules
 
 Rules can be added to a coupon limiting where they can be used and adding the ability to automatically apply them when they are eligible.
@@ -99,6 +103,8 @@ For coupons with a specific number of uses this will set a new start date and re
 Coupon Categories are used to better organize the coupons and the `Update Categories` button allows for the management of these categories.
 
 ![Update Categories](/.attachments/Documentation/Coupons-UpdateCategories.png "Update Categories")
+
+The checkbox on each item is the default promotion setting that sets the default visibility in the [Active Promotions](../../Functions/Active-Promotions.md) window. The check box on the discount itself overrides this setting.
 
 ## Duplicate
 
