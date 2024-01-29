@@ -37,3 +37,7 @@ This generates a report of card errors and sends it to the print dialog
 ## Go to Customer
 
 This is a shortcut to the customer selected
+
+## Lock Customer
+
+Locks the selected customer setting the lock time to the current time and the reason to the error text. See [Lock Customer](../Functions/Lock-Customer.md).

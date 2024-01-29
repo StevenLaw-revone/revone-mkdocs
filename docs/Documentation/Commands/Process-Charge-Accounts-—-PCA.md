@@ -55,3 +55,7 @@ Sends a Declined Card Message to any selected customer who's card was declined w
 ## Mark Resolved
 
 Marks any error under the selected customers as inactive
+
+## Lock Customers with Errors
+
+Locks any selected customer with an error using the current time as the lock time and the error text as the lock reason. See [Lock Customer](../Functions/Lock-Customer.md).
