@@ -28,30 +28,30 @@ Clicking on the `+` button beside the customer will open a detal list with the i
 
 ![Details](/.attachments/Documentation/ProcessCardAccounts-Details.png "Details")
 
-### Process Payments
+## Process Payments
 
 Iterates through the list of selected customers and pays their invoices using a single lump payment to their on file card
 
-### Change Credit Card
+## Change Credit Card
 
 Changes the on file card
 
-### Send Expiry Emails
+## Send Expiry Emails
 
 Searches through the list of customers for ones with an expired card and sends an email warning about the expiry to their selected contact
 
-### Print Unpaid
+## Print Unpaid
 
 Loads a report of the customers and their invoices and sends it to the printer
 
-### Clear $0 Customers
+## Clear $0 Customers
 
 Marks all invoices for customers currently owing $0 to be paid and picked up
 
-### Send Declined Messages
+## Send Declined Messages
 
 Sends a Declined Card Message to any selected customer who's card was declined while processing
 
-### Mark Resolved
+## Mark Resolved
 
 Marks any error under the selected customers as inactive

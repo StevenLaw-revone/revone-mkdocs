@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>Command Lookup - revONE Documentation</title>
+        <title>Lock Customer - revONE Documentation</title>
         <link href="../../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -203,7 +203,7 @@
 </li>
                                     
 <li>
-    <a href="./" class="dropdown-item active">Command Lookup</a>
+    <a href="../Command-Lookup/" class="dropdown-item">Command Lookup</a>
 </li>
                                     
 <li>
@@ -231,7 +231,7 @@
 </li>
                                     
 <li>
-    <a href="../Lock-Customer/" class="dropdown-item">Lock Customer</a>
+    <a href="./" class="dropdown-item active">Lock Customer</a>
 </li>
                                     
 <li>
@@ -449,12 +449,12 @@
                             </a>
                         </li>
                             <li class="nav-item">
-                                <a rel="prev" href="../Active-Promotions/" class="nav-link">
+                                <a rel="prev" href="../Garment-Measurement/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a rel="next" href="../Credit-Card/" class="nav-link">
+                                <a rel="next" href="../Heat-Seal-Tags/" class="nav-link">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -476,8 +476,20 @@
     <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
         <ul class="nav flex-column">
             
-            <li class="nav-item" data-level="1"><a href="#command-lookup" class="nav-link">Command Lookup</a>
+            <li class="nav-item" data-level="1"><a href="#lock-customer" class="nav-link">Lock Customer</a>
               <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#locking-the-customer" class="nav-link">Locking the customer</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#displaying-the-reason" class="nav-link">Displaying the reason</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#effect" class="nav-link">Effect</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
               </ul>
             </li>
         </ul>
@@ -485,9 +497,34 @@
 </div></div>
                     <div class="col-md-9" role="main">
 
-<h1 id="command-lookup">Command Lookup</h1>
-<p>Pressing the command lookup button (Shift-F11) on the main screen will access a command lookup screen that allows a more clear method for looking up commands.</p>
-<p><img alt="Command Lookup" src="../../../.attachments/Documentation/CommandLookup.png" /></p></div>
+<h1 id="lock-customer">Lock Customer</h1>
+<p>If a customer hasn't been paying their bills it can be useful to lock them out from creating any new invoices until the lock is cleared</p>
+<h2 id="locking-the-customer">Locking the customer</h2>
+<p>Locking the customer can be done in either:</p>
+<ul>
+<li><a href="../../Commands/Process-Charge-Accounts-%E2%80%94-PCA/#lock-customers-with-errors">Process Charge Accounts</a></li>
+<li><a href="../../Commands/Process-Card-Errors-%E2%80%94-PCE/#lock-customer">Process Card Errors</a></li>
+<li>Manager Properties in the customer edit screen</li>
+</ul>
+<p><img alt="Manager Properties" src="../../../.attachments/Documentation/LockCustomer-ManagerProperties.png" title="Manager Properties" /></p>
+<p>In the manager properties you can select a preset reason to set a lock or the <code>-</code> to remove an existing lock.</p>
+<p><img alt="Manager Properties Reasons" src="../../../.attachments/Documentation/LockCustomer-ManagerProperties-Reason.png" title="Manager Properties Reasons" /></p>
+<h2 id="displaying-the-reason">Displaying the reason</h2>
+<p>When a customer is locked a 🔒 will be displayed on the customer.</p>
+<p>Beside the name in the customer summary.</p>
+<p><img alt="Customer Summary" src="../../../.attachments/Documentation/LockCustomer-CustomerSummary.png" title="Customer Summary" /></p>
+<p>Beside the id in the edit screen.</p>
+<p><img alt="Edit Screen" src="../../../.attachments/Documentation/LockCustomer-EditScreen.png" title="Edit Screen" /></p>
+<p>Beside the customer in the PCE screen.</p>
+<p><img alt="PCE Locked" src="../../../.attachments/Documentation/LockCustomer-PCE-Locked.png" title="PCE Locked" /></p>
+<p>Clicking on this symbol will display a popup with reason for the lock and the time that the lock was created.</p>
+<blockquote>
+<p>The "(9) Starts with 9" error is an internal testing error</p>
+</blockquote>
+<p><img alt="Reason" src="../../../.attachments/Documentation/LockCustomer-Reason.png" title="Reason" /></p>
+<h2 id="effect">Effect</h2>
+<p>The only thing prevented when locked is creating a new invoice.</p>
+<p><img alt="New Invoice" src="../../../.attachments/Documentation/LockCustomer-NewInvoice.png" title="New Invoice" /></p></div>
             </div>
         </div>
 
