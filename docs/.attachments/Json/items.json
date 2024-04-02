@@ -3,777 +3,999 @@
     "id": 7000,
     "title": "Blouse",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Blouse"
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/blouse.jpeg",
+    "description": "Blouse",
+    "price": 9.88,
+    "categories": "Dryclean,Blouse"
   },
   {
     "id": 7001,
     "title": "Blouse laundry",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Blouse laundry"
+    "description": "Blouse laundry",
+    "price": 6.40,
+    "categories": "Dryclean,Blouse"
   },
   {
     "id": 7007,
     "title": "Coat lining",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Coat lining"
+    "description": "Coat lining",
+    "price": 12.60,
+    "categories": "Dryclean"
   },
   {
     "id": 7008,
     "title": "Coat",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Coat"
+    "description": "Coat",
+    "price": 34.95,
+    "categories": "Dryclean,Coat,Coats"
   },
   {
     "id": 7023,
     "title": "House coat",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "House coat"
+    "description": "House coat",
+    "price": 23.91,
+    "categories": "Dryclean,H Coat"
   },
   {
     "id": 7031,
     "title": "Lab Coat",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Lab Coat"
+    "description": "Lab Coat",
+    "price": 13.98,
+    "categories": "Dryclean"
   },
   {
     "id": 7044,
     "title": "Pants",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Pants"
+    "description": "Pants",
+    "price": 13.78,
+    "categories": "Dryclean,PantsN,Pants"
   },
   {
     "id": 7056,
     "title": "Scarf",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Scarf"
+    "description": "Scarf",
+    "price": 12.14,
+    "categories": "Dryclean,Scarf"
   },
   {
     "id": 7063,
     "title": "Ski wear",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Ski wear"
+    "description": "Ski wear",
+    "price": 27.22,
+    "categories": "Dryclean,Jacket,Ski"
   },
   {
     "id": 7069,
     "title": "Snowmobile suit",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Snowmobile suit"
+    "description": "Snowmobile suit",
+    "price": 36.32,
+    "categories": "Dryclean"
   },
   {
     "id": 7080,
     "title": "Ties - Reg",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Ties - Reg"
+    "description": "Ties - Reg",
+    "price": 10.45,
+    "categories": "Dryclean,Ties"
   },
   {
     "id": 7081,
     "title": "Ties - Silk",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Ties - Silk"
+    "description": "Ties - Silk",
+    "price": 12.40,
+    "categories": "Dryclean,Ties"
   },
   {
     "id": 7082,
     "title": "Toque",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Toque"
+    "description": "Toque",
+    "price": 9.83,
+    "categories": "Dryclean"
   },
   {
     "id": 7087,
     "title": "Uniform  2 pce",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Uniform  2 pce"
+    "description": "Uniform  2 pce",
+    "price": 26.12,
+    "categories": "Dryclean,2 Pc Suits"
   },
   {
     "id": 7089,
     "title": "Wedding Dress Hung",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Wedding Dress Hung"
+    "description": "Wedding Dress Hung",
+    "price": 0.00,
+    "categories": "Wedd,WeddingW"
   },
   {
     "id": 7090,
     "title": "Wedding Gowns boxed",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Wedding Gowns boxed"
+    "description": "Wedding Gowns boxed",
+    "price": 0.00,
+    "categories": "Wedd,WeddingW"
   },
   {
     "id": 7097,
     "title": "Blouse",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Blouse"
+    "description": "Blouse",
+    "price": 10.10,
+    "categories": "Dryclean,Blouse"
   },
   {
     "id": 7098,
     "title": "Blouse laundry",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Blouse laundry"
+    "description": "Blouse laundry",
+    "price": 6.51,
+    "categories": "Dryclean,Blouse"
   },
   {
     "id": 7105,
     "title": "Coat lining",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Coat lining"
+    "description": "Coat lining",
+    "price": 12.88,
+    "categories": "Dryclean"
   },
   {
     "id": 7106,
     "title": "Coats",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Coats"
+    "description": "Coats",
+    "price": 35.67,
+    "categories": "Dryclean,Coat,Coats"
   },
   {
     "id": 7122,
     "title": "House coat",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "House coat"
+    "description": "House coat",
+    "price": 27.58,
+    "categories": "Dryclean,Dress,H Coat"
   },
   {
     "id": 7130,
     "title": "Lab Coat",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Lab Coat"
+    "description": "Lab Coat",
+    "price": 14.25,
+    "categories": "Dryclean"
   },
   {
     "id": 7140,
     "title": "Pants",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Pants"
+    "description": "Pants",
+    "price": 14.08,
+    "categories": "Dryclean,PantsN,Pants"
   },
   {
     "id": 7152,
     "title": "Scarf",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Scarf"
+    "description": "Scarf",
+    "price": 12.45,
+    "categories": "Dryclean,Scarf"
   },
   {
     "id": 7159,
     "title": "Ski wear",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Ski wear"
+    "description": "Ski wear",
+    "price": 27.74,
+    "categories": "Dryclean,2 Pc Suits,Ski"
   },
   {
     "id": 7166,
     "title": "Snowmobile suit",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Snowmobile suit"
+    "description": "Snowmobile suit",
+    "price": 36.99,
+    "categories": "Dryclean"
   },
   {
     "id": 7177,
     "title": "Ties - Reg",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Ties - Reg"
+    "description": "Ties - Reg",
+    "price": 10.72,
+    "categories": "Dryclean,Ties"
   },
   {
     "id": 7178,
     "title": "Ties - Silk",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Ties - Silk"
+    "description": "Ties - Silk",
+    "price": 12.67,
+    "categories": "Dryclean,Ties"
   },
   {
     "id": 7179,
     "title": "Toque",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Toque"
+    "description": "Toque",
+    "price": 9.99,
+    "categories": "Dryclean"
   },
   {
     "id": 7184,
     "title": "Uniform  2 pce",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Uniform  2 pce"
+    "description": "Uniform  2 pce",
+    "price": 26.58,
+    "categories": "Dryclean,2 Pc Suits"
   },
   {
     "id": 7186,
     "title": "Wedding Dress Hung",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Wedding Dress Hung"
+    "description": "Wedding Dress Hung",
+    "price": 0.00,
+    "categories": "Wedd,WeddingW"
   },
   {
     "id": 7187,
     "title": "Wedding Gowns boxed",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Wedding Gowns boxed"
+    "description": "Wedding Gowns boxed",
+    "price": 0.00,
+    "categories": "Wedd,WeddingW"
   },
   {
     "id": 7371,
     "title": "Shoe Shine...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe Shine..."
+    "description": "Shoe Shine...",
+    "price": 0.00,
+    "categories": "Shoes"
   },
   {
     "id": 7374,
     "title": "Shoe Shine",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe Shine"
+    "description": "Shoe Shine",
+    "price": 13.20,
+    "categories": "Shoes"
   },
   {
     "id": 7378,
     "title": "Shoe Heel Lift...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe Heel Lift..."
+    "description": "Shoe Heel Lift...",
+    "price": 0.00,
+    "categories": "Shoes"
   },
   {
     "id": 7384,
     "title": "Shoe protective sole...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe protective sole..."
+    "description": "Shoe protective sole...",
+    "price": 0.00,
+    "categories": "Shoes"
   },
   {
     "id": 7391,
     "title": "Shoe stitching...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe stitching..."
+    "description": "Shoe stitching...",
+    "price": 0.00,
+    "categories": "Shoes"
   },
   {
     "id": 7395,
     "title": "Shoe leather insole...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe leather insole..."
+    "description": "Shoe leather insole...",
+    "price": 0.00,
+    "categories": "Shoes"
   },
   {
     "id": 7399,
     "title": "Shoe Gluing...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe Gluing..."
+    "description": "Shoe Gluing...",
+    "price": 0.00,
+    "categories": "Shoes"
   },
   {
     "id": 7403,
     "title": "Shoe toe tip...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe toe tip..."
+    "description": "Shoe toe tip...",
+    "price": 0.00,
+    "categories": "Shoes"
   },
   {
     "id": 7407,
     "title": "Shoe Full sole rebuild",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe Full sole rebuild"
+    "description": "Shoe Full sole rebuild",
+    "price": 147.50,
+    "categories": "Shoes"
   },
   {
     "id": 7408,
     "title": "Shoe heel reattachment",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe heel reattachment"
+    "description": "Shoe heel reattachment",
+    "price": 26.83,
+    "categories": "Shoes"
   },
   {
     "id": 7409,
     "title": "shoe zipper...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "shoe zipper..."
+    "description": "shoe zipper...",
+    "price": 0.00,
+    "categories": "Shoes"
   },
   {
     "id": 7413,
     "title": "Shoe heel lining",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe heel lining"
+    "description": "Shoe heel lining",
+    "price": 33.53,
+    "categories": "Shoes"
   },
   {
     "id": 7414,
     "title": "Shoe laces",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe laces"
+    "description": "Shoe laces",
+    "price": 6.31,
+    "categories": "Shoes"
   },
   {
     "id": 7415,
     "title": "Shoe Stretching",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe Stretching"
+    "description": "Shoe Stretching",
+    "price": 20.10,
+    "categories": "Shoes"
   },
   {
     "id": 7417,
     "title": "Shoe Gluing...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe Gluing..."
+    "description": "Shoe Gluing...",
+    "price": 0.00,
+    "categories": ""
   },
   {
     "id": 7421,
     "title": "Shoe Heel Lift...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe Heel Lift..."
+    "description": "Shoe Heel Lift...",
+    "price": 0.00,
+    "categories": ""
   },
   {
     "id": 7427,
     "title": "Shoe leather insole...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe leather insole..."
+    "description": "Shoe leather insole...",
+    "price": 0.00,
+    "categories": ""
   },
   {
     "id": 7432,
     "title": "Shoe protective sole...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe protective sole..."
+    "description": "Shoe protective sole...",
+    "price": 0.00,
+    "categories": ""
   },
   {
     "id": 7437,
     "title": "Shoe Shine...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe Shine..."
+    "description": "Shoe Shine...",
+    "price": 0.00,
+    "categories": ""
   },
   {
     "id": 7438,
     "title": "Shoe Shine",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe Shine"
+    "description": "Shoe Shine",
+    "price": 10.68,
+    "categories": "Shoes"
   },
   {
     "id": 7441,
     "title": "Shoe Stitching...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe Stitching..."
+    "description": "Shoe Stitching...",
+    "price": 0.00,
+    "categories": ""
   },
   {
     "id": 7445,
     "title": "Shoe toe tip...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe toe tip..."
+    "description": "Shoe toe tip...",
+    "price": 0.00,
+    "categories": ""
   },
   {
     "id": 7450,
     "title": "Shoe heel lining",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe heel lining"
+    "description": "Shoe heel lining",
+    "price": 26.83,
+    "categories": "Shoes"
   },
   {
     "id": 7451,
     "title": "Shoe Full sole rebuild",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe Full sole rebuild"
+    "description": "Shoe Full sole rebuild",
+    "price": 147.51,
+    "categories": "Shoes"
   },
   {
     "id": 7452,
     "title": "Shoe heel reattachment",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe heel reattachment"
+    "description": "Shoe heel reattachment",
+    "price": 26.83,
+    "categories": "Shoes"
   },
   {
     "id": 7453,
     "title": "Shoe zipper...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe zipper..."
+    "description": "Shoe zipper...",
+    "price": 0.00,
+    "categories": ""
   },
   {
     "id": 7457,
     "title": "Shoe Stretching",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe Stretching"
+    "description": "Shoe Stretching",
+    "price": 20.10,
+    "categories": "Shoes"
   },
   {
     "id": 7458,
     "title": "Shoe laces",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe laces"
+    "description": "Shoe laces",
+    "price": 6.74,
+    "categories": "Shoes"
   },
   {
     "id": 7460,
     "title": "Flat sheet",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Flat sheet"
+    "description": "Flat sheet",
+    "price": 5.78,
+    "categories": "Household"
   },
   {
     "id": 7461,
     "title": "Cotton duvet cover",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Cotton duvet cover"
+    "description": "Cotton duvet cover",
+    "price": 13.93,
+    "categories": "Household"
   },
   {
     "id": 7462,
     "title": "Comforters",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Comforters"
+    "description": "Comforters",
+    "price": 28.38,
+    "categories": "Household,Duvet CovF"
   },
   {
     "id": 7463,
     "title": "Tablecloth",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Tablecloth"
+    "description": "Tablecloth",
+    "price": 13.93,
+    "categories": "Household"
   },
   {
     "id": 7464,
     "title": "Napkin",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Napkin"
+    "description": "Napkin",
+    "price": 1.74,
+    "categories": "Household"
   },
   {
     "id": 7466,
     "title": "Flat sheet",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Flat sheet"
+    "description": "Flat sheet",
+    "price": 5.89,
+    "categories": "Household"
   },
   {
     "id": 7467,
     "title": "Cotton duvet cover",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Cotton duvet cover"
+    "description": "Cotton duvet cover",
+    "price": 14.13,
+    "categories": "Household"
   },
   {
     "id": 7468,
     "title": "Comforter",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Comforter"
+    "description": "Comforter",
+    "price": 28.38,
+    "categories": "Household,Duvet CovF"
   },
   {
     "id": 7469,
     "title": "Tablecloth",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Tablecloth"
+    "description": "Tablecloth",
+    "price": 14.13,
+    "categories": "Household"
   },
   {
     "id": 7470,
     "title": "Napkin",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Napkin"
+    "description": "Napkin",
+    "price": 1.52,
+    "categories": ""
   },
   {
     "id": 7471,
     "title": "Pillow Case",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Pillow Case"
+    "description": "Pillow Case",
+    "price": 2.35,
+    "categories": "Household"
   },
   {
     "id": 7472,
     "title": "Fitted sheet",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Fitted sheet"
+    "description": "Fitted sheet",
+    "price": 7.09,
+    "categories": "Household"
   },
   {
     "id": 7473,
     "title": "Fitted sheet",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Fitted sheet"
+    "description": "Fitted sheet",
+    "price": 6.99,
+    "categories": "Household"
   },
   {
     "id": 7474,
     "title": "Pillow Case",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Pillow Case"
+    "description": "Pillow Case",
+    "price": 2.30,
+    "categories": "Household"
   },
   {
     "id": 7475,
     "title": "Pillow Sham",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Pillow Sham"
+    "description": "Pillow Sham",
+    "price": 3.51,
+    "categories": "Household"
   },
   {
     "id": 7476,
     "title": "Mattress",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Mattress"
+    "description": "Mattress",
+    "price": 43.71,
+    "categories": "Household"
   },
   {
     "id": 7477,
     "title": "Mattress Cover",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Mattress Cover"
+    "description": "Mattress Cover",
+    "price": 21.54,
+    "categories": "Household"
   },
   {
     "id": 7478,
     "title": "Pillow Sham",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Pillow Sham"
+    "description": "Pillow Sham",
+    "price": 3.57,
+    "categories": "Household"
   },
   {
     "id": 7479,
     "title": "Mattress",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Mattress"
+    "description": "Mattress",
+    "price": 44.40,
+    "categories": "Household"
   },
   {
     "id": 7480,
     "title": "Mattress Cover",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Mattress Cover"
+    "description": "Mattress Cover",
+    "price": 21.87,
+    "categories": "Household"
   },
   {
     "id": 8284,
     "title": "Shoe lace",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe lace"
+    "description": "Shoe lace",
+    "price": 6.01,
+    "categories": "Shoes"
   },
   {
     "id": 8555,
     "title": "Canada Goose waist length",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Canada Goose waist length"
+    "description": "Canada Goose waist length",
+    "price": 45.93,
+    "categories": "Dryclean,Coat"
   },
   {
     "id": 8556,
     "title": "Canada Goose Hip length",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Canada Goose Hip length"
+    "description": "Canada Goose Hip length",
+    "price": 57.43,
+    "categories": "Dryclean,Coat"
   },
   {
     "id": 8557,
     "title": "Canada Goose Long",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Canada Goose Long"
+    "description": "Canada Goose Long",
+    "price": 68.94,
+    "categories": "Dryclean,Coat"
   },
   {
     "id": 8558,
     "title": "Canada Goose Waist length",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Canada Goose Waist length"
+    "description": "Canada Goose Waist length",
+    "price": 46.60,
+    "categories": "Dryclean,Coat"
   },
   {
     "id": 8559,
     "title": "Canada Goose Hip Length",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Canada Goose Hip Length"
+    "description": "Canada Goose Hip Length",
+    "price": 58.33,
+    "categories": "Dryclean,Coat"
   },
   {
     "id": 8560,
     "title": "Canada Goose Long",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Canada Goose Long"
+    "description": "Canada Goose Long",
+    "price": 69.94,
+    "categories": "Dryclean,Coat"
   },
   {
     "id": 8913,
     "title": "Skip the laundry...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Skip the laundry..."
+    "description": "Skip the laundry...",
+    "price": 0.00,
+    "categories": "Surcharge"
   },
   {
     "id": 8918,
     "title": "Skip the Laundry Black Bag",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Skip the Laundry Black Bag"
+    "description": "Skip the Laundry Black Bag",
+    "price": 10.50,
+    "categories": "Skip"
   },
   {
     "id": 8919,
     "title": "Skip the Laundry Black Bag",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Skip the Laundry Black Bag"
+    "description": "Skip the Laundry Black Bag",
+    "price": 10.50,
+    "categories": "Skip"
   },
   {
     "id": 8920,
     "title": "Skip the Laundry...",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Skip the Laundry..."
+    "description": "Skip the Laundry...",
+    "price": 0.00,
+    "categories": "Surcharge"
   },
   {
     "id": 8926,
     "title": "Pillow",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Pillow"
+    "description": "Pillow",
+    "price": 11.80,
+    "categories": "Household"
   },
   {
     "id": 8928,
     "title": "Shoe UGGS",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe UGGS"
+    "description": "Shoe UGGS",
+    "price": 28.91,
+    "categories": "Shoes"
   },
   {
     "id": 8929,
     "title": "Shoe UGGS",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe UGGS"
+    "description": "Shoe UGGS",
+    "price": 28.90,
+    "categories": "Shoes"
   },
   {
     "id": 8930,
     "title": "Shoe SNEAKER/RUNNER",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe SNEAKER/RUNNER"
+    "description": "Shoe SNEAKER/RUNNER",
+    "price": 20.81,
+    "categories": "Shoes"
   },
   {
     "id": 8931,
     "title": "Shoe SNEAKER/RUNNER",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe SNEAKER/RUNNER"
+    "description": "Shoe SNEAKER/RUNNER",
+    "price": 20.81,
+    "categories": "Shoes"
   },
   {
     "id": 9120,
     "title": "Moncler waist length",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Moncler waist length"
+    "description": "Moncler waist length",
+    "price": 45.93,
+    "categories": "Dryclean"
   },
   {
     "id": 9121,
     "title": "Moncler hip length",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Moncler hip length"
+    "description": "Moncler hip length",
+    "price": 57.43,
+    "categories": "Dryclean"
   },
   {
     "id": 9122,
     "title": "Moncler Long",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Moncler Long"
+    "description": "Moncler Long",
+    "price": 68.94,
+    "categories": "Dryclean"
   },
   {
     "id": 9123,
     "title": "Moose Knuckle waist length",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Moose Knuckle waist length"
+    "description": "Moose Knuckle waist length",
+    "price": 45.93,
+    "categories": "Dryclean"
   },
   {
     "id": 9124,
     "title": "Moose Knuckle Hip Length",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Moose Knuckle Hip Length"
+    "description": "Moose Knuckle Hip Length",
+    "price": 57.43,
+    "categories": "Dryclean"
   },
   {
     "id": 9125,
     "title": "Moose Knuckle Long",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Moose Knuckle Long"
+    "description": "Moose Knuckle Long",
+    "price": 68.94,
+    "categories": "Dryclean"
   },
   {
     "id": 9126,
     "title": "Moncler waist length",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Moncler waist length"
+    "description": "Moncler waist length",
+    "price": 45.92,
+    "categories": "Dryclean"
   },
   {
     "id": 9127,
     "title": "Moncler Hip Length",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Moncler Hip Length"
+    "description": "Moncler Hip Length",
+    "price": 57.44,
+    "categories": "Dryclean"
   },
   {
     "id": 9128,
     "title": "Moncler Long",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Moncler Long"
+    "description": "Moncler Long",
+    "price": 68.94,
+    "categories": "Dryclean"
   },
   {
     "id": 9129,
     "title": "Moose Knuckle waist length",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Moose Knuckle waist length"
+    "description": "Moose Knuckle waist length",
+    "price": 45.92,
+    "categories": "Dryclean"
   },
   {
     "id": 9131,
     "title": "Moose Knuckle Long",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Moose Knuckle Long"
+    "description": "Moose Knuckle Long",
+    "price": 68.94,
+    "categories": "Dryclean"
   },
   {
     "id": 9139,
     "title": "Canada Goose VEST",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Canada Goose VEST"
+    "description": "Canada Goose VEST",
+    "price": 31.53,
+    "categories": "Dryclean"
   },
   {
     "id": 9140,
     "title": "Canada goose VEST",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Canada goose VEST"
+    "description": "Canada goose VEST",
+    "price": 31.52,
+    "categories": "Dryclean"
   },
   {
     "id": 9435,
     "title": "Shoe Care Product",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "Shoe Care Product"
+    "description": "Shoe Care Product",
+    "price": 0.00,
+    "categories": "Shoes"
   },
   {
     "id": 9438,
     "title": "shoe slider",
     "url": "N/A",
     "image_link": "N/A",
-    "description": "shoe slider"
+    "description": "shoe slider",
+    "price": 16.50,
+    "categories": "Shoes"
   }
 ]
