@@ -1,1045 +1,523 @@
 [
   {
-    "id": 3,
+    "id": "Test",
     "title": "Test",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test.png",
     "description": "Test",
-    "price": 4.00,
-    "categories": "Laundry,Bedspread"
+    "price": 6.00,
+    "categories": "Laundry,,Bedspread"
   },
   {
-    "id": 4,
+    "id": "Test212",
     "title": "Test212",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test212.png",
     "description": "Test212",
-    "price": 3.00,
+    "price": 3.532,
     "categories": "Laundry,Bedspread"
   },
   {
-    "id": 5,
+    "id": "test33",
     "title": "test33",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/test33.png",
     "description": "test33",
     "price": 3.00,
     "categories": "Laundry"
   },
   {
-    "id": 6,
+    "id": "Test2",
     "title": "Test2",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test2.png",
     "description": "Test2",
     "price": 10.00,
     "categories": "Dry Clean"
   },
   {
-    "id": 7,
+    "id": "Test5",
     "title": "Test5",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test5.png",
     "description": "Test5",
     "price": 6.00,
     "categories": "Laundry,Shirt,Pants"
   },
   {
-    "id": 8,
+    "id": "Test1",
     "title": "Test1",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test1.png",
     "description": "Test1",
     "price": 2.00,
     "categories": "Household,Blanket,Pants"
   },
   {
-    "id": 9,
+    "id": "Test123",
     "title": "Test123",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test123.png",
     "description": "Test123",
     "price": 1.00,
     "categories": "Laundry,Shirt,Pants"
   },
   {
-    "id": 10,
-    "title": "New item test",
+    "id": "New_item_test",
+    "title": "New_item_test",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "New item test",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/New_item_test.png",
+    "description": "New_item_test",
     "price": 2.00,
-    "categories": "Laundry,Bedspread"
+    "categories": "Laundry,Dry Clean,Bedspread,Pants"
   },
   {
-    "id": 11,
-    "title": null,
+    "id": "",
+    "title": "",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/.png",
+    "description": "",
     "price": null,
-    "categories": ""
+    "categories": ",Laundry,Misc,Pants"
   },
   {
-    "id": 12,
-    "title": "Test Update",
+    "id": "Test_Update",
+    "title": "Test_Update",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test Update",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test_Update.png",
+    "description": "Test_Update",
     "price": 4.00,
     "categories": "Laundry,Bedspread"
   },
   {
-    "id": 13,
-    "title": "Test212 Update",
+    "id": "Test212_Update",
+    "title": "Test212_Update",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test212 Update",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test212_Update.png",
+    "description": "Test212_Update",
     "price": 3.00,
     "categories": "Laundry,Bedspread"
   },
   {
-    "id": 15,
-    "title": "New item test Update",
+    "id": "New_item_test_Update",
+    "title": "New_item_test_Update",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "New item test Update",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/New_item_test_Update.png",
+    "description": "New_item_test_Update",
     "price": 2.00,
     "categories": "Dry Clean,Pants"
   },
   {
-    "id": 16,
+    "id": "Jackets...",
     "title": "Jackets...",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Jackets....png",
     "description": "Jackets...",
     "price": null,
     "categories": ""
   },
   {
-    "id": 17,
-    "title": "Jacket Type A",
+    "id": "Jacket_Type_A",
+    "title": "Jacket_Type_A",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Jacket Type A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Jacket_Type_A.png",
+    "description": "Jacket_Type_A",
     "price": 6.00,
     "categories": ""
   },
   {
-    "id": 18,
-    "title": "Jacket Type B",
+    "id": "Jacket_Type_B",
+    "title": "Jacket_Type_B",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Jacket Type B",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Jacket_Type_B.png",
+    "description": "Jacket_Type_B",
     "price": 8.00,
     "categories": ""
   },
   {
-    "id": 19,
-    "title": "Jacket Type dd",
+    "id": "Jacket_Type_dd",
+    "title": "Jacket_Type_dd",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Jacket Type dd",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Jacket_Type_dd.png",
+    "description": "Jacket_Type_dd",
     "price": 10.00,
     "categories": ""
   },
   {
-    "id": 20,
+    "id": "pants",
     "title": "pants",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/pants.png",
     "description": "pants",
     "price": 20.00,
-    "categories": "Laundry,Bedspread"
+    "categories": "Laundry,,Bedspread"
   },
   {
-    "id": 21,
+    "id": "shirt",
     "title": "shirt",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/shirt.png",
     "description": "shirt",
     "price": 10.00,
-    "categories": "Laundry,Shirt,Pants"
+    "categories": "Laundry,Shirt,Pants,Bedspread"
   },
   {
-    "id": 24,
+    "id": "Blouse",
     "title": "Blouse",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Blouse.png",
     "description": "Blouse",
     "price": 5.00,
     "categories": "Dry Clean,Blouse"
   },
   {
-    "id": 25,
+    "id": "Belt",
     "title": "Belt",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Belt.png",
     "description": "Belt",
     "price": 1.00,
-    "categories": ""
+    "categories": ",Laundry"
   },
   {
-    "id": 26,
+    "id": "Dress",
     "title": "Dress",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Dress.png",
     "description": "Dress",
     "price": 14.00,
-    "categories": "Laundry,Dress"
+    "categories": "Laundry,,Misc,Dress"
   },
   {
-    "id": 27,
+    "id": "Leather",
     "title": "Leather",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Leather.png",
     "description": "Leather",
     "price": 8.00,
-    "categories": "Uniform"
+    "categories": "Uniform,"
   },
   {
-    "id": 28,
-    "title": "Blouse",
+    "id": "Jacket_Type_C",
+    "title": "Jacket_Type_C",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Blouse",
-    "price": 5.00,
-    "categories": "Dry Clean,Blouse"
-  },
-  {
-    "id": 29,
-    "title": "test33",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "test33",
-    "price": 3.00,
-    "categories": "Laundry"
-  },
-  {
-    "id": 30,
-    "title": "Test",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test",
-    "price": 4.00,
-    "categories": "Laundry,Bedspread"
-  },
-  {
-    "id": 31,
-    "title": "shirt",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "shirt",
-    "price": 10.00,
-    "categories": "Laundry,Shirt"
-  },
-  {
-    "id": 32,
-    "title": "pants",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "pants",
-    "price": 20.00,
-    "categories": ""
-  },
-  {
-    "id": 33,
-    "title": "New item test",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "New item test",
-    "price": 2.00,
-    "categories": "Dry Clean,Pants"
-  },
-  {
-    "id": 34,
-    "title": "Leather",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Leather",
-    "price": 8.00,
-    "categories": ""
-  },
-  {
-    "id": 35,
-    "title": "Test212",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test212",
-    "price": 3.00,
-    "categories": "Laundry,Bedspread"
-  },
-  {
-    "id": 36,
-    "title": "Jacket Type C",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Jacket Type C",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Jacket_Type_C.png",
+    "description": "Jacket_Type_C",
     "price": 10.00,
     "categories": ""
   },
   {
-    "id": 37,
-    "title": "Belt",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Belt",
-    "price": 1.00,
-    "categories": ""
-  },
-  {
-    "id": 38,
-    "title": "Jacket Type B",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Jacket Type B",
-    "price": 8.00,
-    "categories": ""
-  },
-  {
-    "id": 39,
-    "title": "Jacket Type A",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Jacket Type A",
-    "price": 6.00,
-    "categories": ""
-  },
-  {
-    "id": 40,
-    "title": "Dress",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Dress",
-    "price": 14.00,
-    "categories": ""
-  },
-  {
-    "id": 41,
-    "title": "Jackets...",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Jackets...",
-    "price": null,
-    "categories": ""
-  },
-  {
-    "id": 66,
+    "id": "dgfdfgdfg",
     "title": "dgfdfgdfg",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/dgfdfgdfg.png",
     "description": "dgfdfgdfg",
     "price": 13.31,
-    "categories": "Test"
+    "categories": "Test,"
   },
   {
-    "id": 67,
+    "id": "dfgdgdfgfg",
     "title": "dfgdgdfgfg",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/dfgdgdfgfg.png",
     "description": "dfgdgdfgfg",
     "price": null,
     "categories": ""
   },
   {
-    "id": 68,
+    "id": "fgh",
     "title": "fgh",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/fgh.png",
     "description": "fgh",
     "price": null,
     "categories": "Misc,Pants"
   },
   {
-    "id": 70,
-    "title": "Blouse",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Blouse",
-    "price": 5.00,
-    "categories": "Dry Clean,Blouse"
-  },
-  {
-    "id": 71,
-    "title": null,
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
-    "price": null,
-    "categories": ""
-  },
-  {
-    "id": 72,
-    "title": null,
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
-    "price": null,
-    "categories": ""
-  },
-  {
-    "id": 73,
-    "title": null,
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
-    "price": null,
-    "categories": ""
-  },
-  {
-    "id": 74,
-    "title": null,
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
-    "price": null,
-    "categories": ""
-  },
-  {
-    "id": 75,
-    "title": null,
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
-    "price": null,
-    "categories": ""
-  },
-  {
-    "id": 76,
-    "title": null,
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
-    "price": null,
-    "categories": ""
-  },
-  {
-    "id": 77,
-    "title": null,
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
-    "price": null,
-    "categories": "Laundry"
-  },
-  {
-    "id": 78,
-    "title": null,
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
-    "price": null,
-    "categories": "Laundry"
-  },
-  {
-    "id": 80,
-    "title": null,
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
-    "price": null,
-    "categories": "Laundry"
-  },
-  {
-    "id": 81,
-    "title": " ",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": " ",
-    "price": null,
-    "categories": "Laundry"
-  },
-  {
-    "id": 82,
-    "title": null,
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
-    "price": null,
-    "categories": ""
-  },
-  {
-    "id": 83,
-    "title": null,
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
-    "price": null,
-    "categories": ""
-  },
-  {
-    "id": 84,
-    "title": null,
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
-    "price": null,
-    "categories": ""
-  },
-  {
-    "id": 85,
-    "title": "dgfdfgdfg",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "dgfdfgdfg",
-    "price": null,
-    "categories": ""
-  },
-  {
-    "id": 86,
-    "title": "dfgdgdfgfg",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "dfgdgdfgfg",
-    "price": null,
-    "categories": ""
-  },
-  {
-    "id": 87,
-    "title": "fgh",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "fgh",
-    "price": null,
-    "categories": "Misc,Pants"
-  },
-  {
-    "id": 88,
-    "title": null,
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
-    "price": null,
-    "categories": "Misc,Pants"
-  },
-  {
-    "id": 89,
-    "title": null,
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
-    "price": null,
-    "categories": "Laundry"
-  },
-  {
-    "id": 91,
-    "title": null,
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
-    "price": null,
-    "categories": ""
-  },
-  {
-    "id": 93,
-    "title": "Dress",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Dress",
-    "price": 14.00,
-    "categories": "Misc"
-  },
-  {
-    "id": 94,
-    "title": "Jacket Type A",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Jacket Type A",
-    "price": 6.00,
-    "categories": ""
-  },
-  {
-    "id": 95,
-    "title": "Jacket Type B",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Jacket Type B",
-    "price": 8.00,
-    "categories": ""
-  },
-  {
-    "id": 97,
-    "title": "Jacket Type C",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Jacket Type C",
-    "price": 10.00,
-    "categories": ""
-  },
-  {
-    "id": 98,
-    "title": "Jackets...",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Jackets...",
-    "price": null,
-    "categories": ""
-  },
-  {
-    "id": 99,
-    "title": "Leather",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Leather",
-    "price": 8.00,
-    "categories": ""
-  },
-  {
-    "id": 100,
-    "title": "New item test",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "New item test",
-    "price": 2.00,
-    "categories": "Dry Clean,Pants"
-  },
-  {
-    "id": 101,
-    "title": "pants",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "pants",
-    "price": 20.00,
-    "categories": ""
-  },
-  {
-    "id": 102,
-    "title": "Belt",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Belt",
-    "price": 1.00,
-    "categories": "Laundry"
-  },
-  {
-    "id": 103,
-    "title": "Test",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test",
-    "price": 4.00,
-    "categories": "Laundry,Bedspread"
-  },
-  {
-    "id": 104,
-    "title": "Test212",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test212",
-    "price": 3.00,
-    "categories": "Laundry,Bedspread"
-  },
-  {
-    "id": 105,
-    "title": "test33",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "test33",
-    "price": 3.00,
-    "categories": "Laundry"
-  },
-  {
-    "id": 108,
-    "title": null,
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": null,
-    "price": null,
-    "categories": "Laundry"
-  },
-  {
-    "id": 111,
-    "title": "shirt",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "shirt",
-    "price": 10.00,
-    "categories": "Laundry,Shirt,Bedspread"
-  },
-  {
-    "id": 112,
+    "id": "jason",
     "title": "jason",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/jason.png",
     "description": "jason",
     "price": null,
     "categories": ""
   },
   {
-    "id": 116,
+    "id": "adasdasd",
     "title": "adasdasd",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/adasdasd.png",
     "description": "adasdasd",
     "price": 11.00,
     "categories": "Misc,New Upchar"
   },
   {
-    "id": 117,
+    "id": "asdasd",
     "title": "asdasd",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/asdasd.png",
     "description": "asdasd",
     "price": 1.10,
     "categories": "Note,New Upchar"
   },
   {
-    "id": 118,
+    "id": "test123",
     "title": "test123",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/test123.png",
     "description": "test123",
     "price": 0.00,
     "categories": "Note,New Upchar"
   },
   {
-    "id": 130,
+    "id": "Test1233",
     "title": "Test1233",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test1233.png",
     "description": "Test1233",
     "price": 7.53,
     "categories": "Laundry,Bedspread"
   },
   {
-    "id": 131,
-    "title": "Test212",
+    "id": "Test_Misc_Pants",
+    "title": "Test_Misc_Pants",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test212",
-    "price": 5.66,
-    "categories": "Laundry,Bedspread"
-  },
-  {
-    "id": 133,
-    "title": "Test",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test",
-    "price": 12.00,
-    "categories": ""
-  },
-  {
-    "id": 137,
-    "title": "Test Misc Pants",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test Misc Pants",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test_Misc_Pants.png",
+    "description": "Test_Misc_Pants",
     "price": 12.00,
     "categories": "Misc,Pants"
   },
   {
-    "id": 141,
-    "title": "Jacket Type B",
+    "id": "Test_Discount_0",
+    "title": "Test_Discount_0",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Jacket Type B",
-    "price": 8.00,
-    "categories": ""
-  },
-  {
-    "id": 157,
-    "title": "Jacket Type dd",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Jacket Type dd",
-    "price": 10.00,
-    "categories": ""
-  },
-  {
-    "id": 160,
-    "title": "Jacket Type A",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Jacket Type A",
-    "price": 6.00,
-    "categories": ""
-  },
-  {
-    "id": 164,
-    "title": "Test Discount 0",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test Discount 0",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test_Discount_0.png",
+    "description": "Test_Discount_0",
     "price": 10.00,
     "categories": "Misc"
   },
   {
-    "id": 165,
-    "title": "Test Discount 1",
+    "id": "Test_Discount_1",
+    "title": "Test_Discount_1",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test Discount 1",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test_Discount_1.png",
+    "description": "Test_Discount_1",
     "price": 10.00,
     "categories": "Misc"
   },
   {
-    "id": 166,
-    "title": "Test Discount 2",
+    "id": "Test_Discount_2",
+    "title": "Test_Discount_2",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test Discount 2",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test_Discount_2.png",
+    "description": "Test_Discount_2",
     "price": 10.00,
     "categories": "Misc"
   },
   {
-    "id": 167,
-    "title": "Test Discount 1.5",
+    "id": "Test_Discount_1.5",
+    "title": "Test_Discount_1.5",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test Discount 1.5",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test_Discount_1.5.png",
+    "description": "Test_Discount_1.5",
     "price": 10.00,
     "categories": "Misc"
   },
   {
-    "id": 168,
+    "id": "TestSub...",
     "title": "TestSub...",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/TestSub....png",
     "description": "TestSub...",
     "price": null,
     "categories": ""
   },
   {
-    "id": 169,
-    "title": "Parent test...",
+    "id": "Parent_test...",
+    "title": "Parent_test...",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Parent test...",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Parent_test....png",
+    "description": "Parent_test...",
     "price": null,
     "categories": ""
   },
   {
-    "id": 170,
+    "id": "newParent...",
     "title": "newParent...",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/newParent....png",
     "description": "newParent...",
     "price": null,
     "categories": ""
   },
   {
-    "id": 172,
+    "id": "Test...",
     "title": "Test...",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test....png",
     "description": "Test...",
     "price": null,
     "categories": ""
   },
   {
-    "id": 173,
-    "title": "SubList Item Test",
+    "id": "SubList_Item_Test",
+    "title": "SubList_Item_Test",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "SubList Item Test",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/SubList_Item_Test.png",
+    "description": "SubList_Item_Test",
     "price": 1.91,
     "categories": "Misc"
   },
   {
-    "id": 174,
+    "id": "SubList2",
     "title": "SubList2",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/SubList2.png",
     "description": "SubList2",
     "price": 1.91,
     "categories": "Press only"
   },
   {
-    "id": 175,
+    "id": "aaaa",
     "title": "aaaa",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/aaaa.png",
     "description": "aaaa",
     "price": 1.47,
     "categories": "Discount"
   },
   {
-    "id": 176,
+    "id": "aa",
     "title": "aa",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/aa.png",
     "description": "aa",
     "price": 2.10,
     "categories": "Note"
   },
   {
-    "id": 177,
+    "id": "zz",
     "title": "zz",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/zz.png",
     "description": "zz",
     "price": 22.57,
     "categories": "Misc"
   },
   {
-    "id": 178,
-    "title": "New Test",
+    "id": "New_Test",
+    "title": "New_Test",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "New Test",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/New_Test.png",
+    "description": "New_Test",
     "price": 11.00,
     "categories": "Note"
   },
   {
-    "id": 179,
-    "title": "pant suit",
+    "id": "pant_suit",
+    "title": "pant_suit",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "pant suit",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/pant_suit.png",
+    "description": "pant_suit",
     "price": 10.00,
     "categories": "Laundry,Pants"
   },
   {
-    "id": 180,
+    "id": "Garmentsizecheck",
     "title": "Garmentsizecheck",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Garmentsizecheck.png",
     "description": "Garmentsizecheck",
     "price": 2.00,
     "categories": "Laundry,Shirt"
   },
   {
-    "id": 181,
-    "title": "Test UseBagger",
+    "id": "Test_UseBagger",
+    "title": "Test_UseBagger",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test UseBagger",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test_UseBagger.png",
+    "description": "Test_UseBagger",
     "price": 1.00,
     "categories": "Misc"
   },
   {
-    "id": 182,
+    "id": "testmultiple",
     "title": "testmultiple",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/testmultiple.png",
     "description": "testmultiple",
     "price": 2.00,
     "categories": "Laundry"
   },
   {
-    "id": 183,
-    "title": "testmultiple",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "testmultiple",
-    "price": 2.00,
-    "categories": "Laundry"
-  },
-  {
-    "id": 184,
+    "id": "testmultiple2",
     "title": "testmultiple2",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/testmultiple2.png",
     "description": "testmultiple2",
     "price": 2.00,
     "categories": "Dry Clean"
   },
   {
-    "id": 185,
-    "title": "3 Piece Suit",
+    "id": "3_Piece_Suit",
+    "title": "3_Piece_Suit",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "3 Piece Suit",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/3_Piece_Suit.png",
+    "description": "3_Piece_Suit",
     "price": 10.00,
     "categories": "Laundry,Household"
   },
   {
-    "id": 186,
+    "id": "testRepairPants",
     "title": "testRepairPants",
     "url": "N/A",
-    "image_link": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/testRepairPants.png",
     "description": "testRepairPants",
     "price": 22.00,
     "categories": "Repairs"
   },
   {
-    "id": 187,
-    "title": "test repair pant",
+    "id": "test_repair_pant",
+    "title": "test_repair_pant",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "test repair pant",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/test_repair_pant.png",
+    "description": "test_repair_pant",
     "price": 12.00,
     "categories": "Repairs"
   },
   {
-    "id": 188,
-    "title": "PVS Bag",
+    "id": "PVS_Bag",
+    "title": "PVS_Bag",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "PVS Bag",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/PVS_Bag.png",
+    "description": "PVS_Bag",
     "price": 0.00,
     "categories": "Test"
   },
   {
-    "id": 189,
-    "title": "Test212",
+    "id": "Test212_Copy",
+    "title": "Test212_Copy",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test212",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test212_Copy.png",
+    "description": "Test212_Copy",
     "price": 3.00,
     "categories": "Laundry,Bedspread"
   },
   {
-    "id": 191,
-    "title": "Test212 Copy",
+    "id": "Repair_Only",
+    "title": "Repair_Only",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test212 Copy",
-    "price": 3.00,
-    "categories": "Laundry,Bedspread"
-  },
-  {
-    "id": 192,
-    "title": "Repair Only",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Repair Only",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Repair_Only.png",
+    "description": "Repair_Only",
     "price": 0.00,
     "categories": "Repairs"
   },
   {
-    "id": 199,
-    "title": "Test Update",
+    "id": "New_item_CSV",
+    "title": "New_item_CSV",
     "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test Update",
-    "price": 4.00,
-    "categories": "Laundry,Bedspread"
-  },
-  {
-    "id": 200,
-    "title": "Test212 Update",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "Test212 Update",
-    "price": 3.00,
-    "categories": "Laundry,Bedspread"
-  },
-  {
-    "id": 201,
-    "title": "New item test Update",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "New item test Update",
-    "price": 2.00,
-    "categories": "Dry Clean,Pants"
-  },
-  {
-    "id": 202,
-    "title": "New item CSV",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "New item CSV",
-    "price": 9.00,
-    "categories": "Laundry"
-  },
-  {
-    "id": 204,
-    "title": "New item CSV",
-    "url": "N/A",
-    "image_link": "N/A",
-    "description": "New item CSV",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/New_item_CSV.png",
+    "description": "New_item_CSV",
     "price": 9.00,
     "categories": "Laundry"
   }
