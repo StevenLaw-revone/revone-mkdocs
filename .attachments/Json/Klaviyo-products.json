@@ -108,15 +108,6 @@
     "categories": "Dry Clean,Pants"
   },
   {
-    "id": "Jackets...",
-    "title": "Jackets...",
-    "url": "N/A",
-    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Jackets....png",
-    "description": "Jackets...",
-    "price": null,
-    "categories": ""
-  },
-  {
     "id": "Jacket_Type_A",
     "title": "Jacket Type A",
     "url": "N/A",
@@ -204,6 +195,15 @@
     "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Jacket_Type_C.png",
     "description": "Jacket Type C",
     "price": 10.00,
+    "categories": ""
+  },
+  {
+    "id": "Jackets___",
+    "title": "Jackets...",
+    "url": "N/A",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Jackets___.png",
+    "description": "Jackets...",
+    "price": null,
     "categories": ""
   },
   {
@@ -315,47 +315,38 @@
     "categories": "Misc"
   },
   {
-    "id": "Test_Discount_1.5",
+    "id": "Test_Discount_1_5",
     "title": "Test Discount 1.5",
     "url": "N/A",
-    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test_Discount_1.5.png",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test_Discount_1_5.png",
     "description": "Test Discount 1.5",
     "price": 10.00,
     "categories": "Misc"
   },
   {
-    "id": "TestSub...",
+    "id": "TestSub___",
     "title": "TestSub...",
     "url": "N/A",
-    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/TestSub....png",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/TestSub___.png",
     "description": "TestSub...",
     "price": null,
     "categories": ""
   },
   {
-    "id": "Parent_test...",
+    "id": "Parent_test___",
     "title": "Parent test...",
     "url": "N/A",
-    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Parent_test....png",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Parent_test___.png",
     "description": "Parent test...",
     "price": null,
     "categories": ""
   },
   {
-    "id": "newParent...",
+    "id": "newParent___",
     "title": "newParent...",
     "url": "N/A",
-    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/newParent....png",
+    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/newParent___.png",
     "description": "newParent...",
-    "price": null,
-    "categories": ""
-  },
-  {
-    "id": "Test...",
-    "title": "Test...",
-    "url": "N/A",
-    "image_link": "https://revone-catalogue.s3.us-east-2.amazonaws.com/Images/Test....png",
-    "description": "Test...",
     "price": null,
     "categories": ""
   },
