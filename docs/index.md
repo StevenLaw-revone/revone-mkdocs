@@ -12,6 +12,7 @@
 >             - [Pick Up Route — PUR](Documentation/Commands/Administration-Tools/Pick-Up-Route-—-PUR.md)
 >             - [Remove Empty Invoices — REI](Documentation/Commands/Administration-Tools/Remove-Empty-Invoices-—-REI.md)
 >             - [SMS Suppression Report — SSR](Documentation/Commands/Administration-Tools/SMS-Suppression-Report-—-SSR.md)
+>             - [Tag Issues — TGI](Documentation/Commands/Administration-Tools/Tag-Issues-—-TGI.md)
 >             - [View Tag Status/View Invoice Status — VTS/VIS](Documentation/Commands/Administration-Tools/View-Tag-Status-%257C-View-Invoice-Status-—-VTS%257CVIS.md)
 >             - [Write Off Bulk — WOB](Documentation/Commands/Administration-Tools/Write-Off-Bulk-—-WOB.md)
 >         - [Batch Command — B](Documentation/Commands/Batch-Payment-—-B.md)

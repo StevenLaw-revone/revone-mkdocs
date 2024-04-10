@@ -15,6 +15,7 @@ Commands listed in the Command Line drop down
 >         - [Pick Up Route — PUR](Commands/Administration-Tools/Pick-Up-Route-—-PUR.md)
 >         - [Remove Empty Invoices — REI](Commands/Administration-Tools/Remove-Empty-Invoices-—-REI.md)
 >         - [SMS Suppression Report — SSR](Commands/Administration-Tools/SMS-Suppression-Report-—-SSR.md)
+>         - [Tag Issues — TGI](Commands/Administration-Tools/Tag-Issues-—-TGI.md)
 >         - [View Tag Status/View Invoice Status — VTS/VIS](Commands/Administration-Tools/View-Tag-Status-%257C-View-Invoice-Status-—-VTS%257CVIS.md)
 >         - [Write Off Bulk — WOB](Commands/Administration-Tools/Write-Off-Bulk-—-WOB.md)
 >     - [Batch Command — B](Commands/Batch-Payment-—-B.md)
