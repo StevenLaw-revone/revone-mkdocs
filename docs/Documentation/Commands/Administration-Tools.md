@@ -2,6 +2,7 @@
 
 Tools intended for use by administrators that should not be accessible by general front counter staff.
 
+> - [Adjustment / Remove Adjustment — ADJ/RAJ](Administration-Tools/Adjustment-%257C-Remove-Adjustment—-ADJ%257CRAJ.md)
 > - [Clean Up Data — CLN](Administration-Tools/Clean-up-Data-—-CLN.md)
 > - [Deactivate Old Customers — DOC](Administration-Tools/Deactivate-Old-Customers-—-DOC.md)
 > - [Email Suppression Report — ESR](Administration-Tools/Email-Suppression-Report-—-ESR.md)

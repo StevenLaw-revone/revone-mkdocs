@@ -1,5 +1,5 @@
 # Multiple Pickup — MU
-<span style="font-size:.8rem;opacity:.8">Updated 2024-02-02 version 0.3.964</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-02-02 version 1.0.41 (0.3.964)</span>
 
 Scan multiple invoices/sub-invoices to mark them as picked up or on route
 

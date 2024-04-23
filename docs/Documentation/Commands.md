@@ -7,6 +7,7 @@ Commands listed in the Command Line drop down
 > - [Commands](Commands.md)
 >     - [Add/Change/Save Credit Card — ACC/CCC/SCC](Commands/Add%257CChange%257CSave-Credit-Card-—-ACC%257CCCC%257CSCC.md)
 >     - [Administration Tools](Commands/Administration-Tools.md)
+>         - [Adjustment / Remove Adjustment — ADJ/RAJ](Commands/Administration-Tools/Adjustment-%257C-Remove-Adjustment—-ADJ%257CRAJ.md)
 >         - [Clean Up Data — CLN](Commands/Administration-Tools/Clean-up-Data-—-CLN.md)
 >         - [Deactivate Old Customers — DOC](Commands/Administration-Tools/Deactivate-Old-Customers-—-DOC.md)
 >         - [Email Suppression Report — ESR](Commands/Administration-Tools/Email-Suppression-Report-—-ESR.md)

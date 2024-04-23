@@ -6,6 +6,7 @@ nav:
     - Documentation\Commands\Add%7CChange%7CSave-Credit-Card-—-ACC%7CCCC%7CSCC.md
     - 'Administration Tools':
       - Documentation\Commands\Administration-Tools.md
+      - Documentation\Commands\Administration-Tools\Adjustment-%7C-Remove-Adjustment—-ADJ%7CRAJ.md
       - Documentation\Commands\Administration-Tools\Clean-up-Data-—-CLN.md
       - Documentation\Commands\Administration-Tools\Deactivate-Old-Customers-—-DOC.md
       - Documentation\Commands\Administration-Tools\Email-Suppression-Report-—-ESR.md
