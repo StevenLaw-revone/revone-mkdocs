@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../../img/favicon.ico">
-        <title>Clean Up Data — CLN - revONE Documentation</title>
+        <title>Adjustment / Remove Adjustment — ADJ/RAJ - revONE Documentation</title>
         <link href="../../../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../../css/base.css" rel="stylesheet">
@@ -54,11 +54,11 @@
 </li>
             
 <li>
-    <a href="../Adjustment-%257C-Remove-Adjustment%E2%80%94-ADJ%257CRAJ/" class="dropdown-item">Adjustment / Remove Adjustment — ADJ/RAJ</a>
+    <a href="./" class="dropdown-item active">Adjustment / Remove Adjustment — ADJ/RAJ</a>
 </li>
             
 <li>
-    <a href="./" class="dropdown-item active">Clean Up Data — CLN</a>
+    <a href="../Clean-up-Data-%E2%80%94-CLN/" class="dropdown-item">Clean Up Data — CLN</a>
 </li>
             
 <li>
@@ -457,12 +457,12 @@
                             </a>
                         </li>
                             <li class="nav-item">
-                                <a rel="prev" href="../Adjustment-%257C-Remove-Adjustment%E2%80%94-ADJ%257CRAJ/" class="nav-link">
+                                <a rel="prev" href="../" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a rel="next" href="../Deactivate-Old-Customers-%E2%80%94-DOC/" class="nav-link">
+                                <a rel="next" href="../Clean-up-Data-%E2%80%94-CLN/" class="nav-link">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -484,8 +484,16 @@
     <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
         <ul class="nav flex-column">
             
-            <li class="nav-item" data-level="1"><a href="#clean-up-data-cln" class="nav-link">Clean Up Data — CLN</a>
+            <li class="nav-item" data-level="1"><a href="#adjustment-remove-adjustment-adjraj" class="nav-link">Adjustment / Remove Adjustment — ADJ/RAJ</a>
               <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#adjustment" class="nav-link">Adjustment</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#remove-adjustment" class="nav-link">Remove Adjustment</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
               </ul>
             </li>
         </ul>
@@ -493,21 +501,22 @@
 </div></div>
                     <div class="col-md-9" role="main">
 
-<h1 id="clean-up-data-cln">Clean Up Data — CLN</h1>
-<p>A tool to clean up data in the database. Generally for fixing misspellings and alternate spellings (e.g. city and brand names)</p>
-<p><img alt="Main" src="../../../../.attachments/Documentation/CleanUpData01.png" title="Main" /></p>
-<p>The two options currently available are Customer City and Brand</p>
-<p><img alt="Field Options" src="../../../../.attachments/Documentation/CleanUpData01-FieldOptions.png" title="Field Options" /></p>
-<p>Once the <code>Find Matches</code> button is pressed it will search for close matches</p>
-<p><img alt="Found" src="../../../../.attachments/Documentation/CleanUpData02.png" title="Found" /></p>
-<p>In this example there are three different spellings of Chestermere.</p>
-<p><img alt="Selected" src="../../../../.attachments/Documentation/CleanUpData03.png" title="Selected" /></p>
-<p>Clicking <code>Correct Selected</code> will bring up the option to select the correct spelling.</p>
-<p><img alt="Spelling Options" src="../../../../.attachments/Documentation/CleanUpData04.png" title="Spelling Options" /></p>
-<p>Here it is clear that for some reason an employee attempted to add the province abbreviation in the City field. As such the correct option would be Calgary without any province abbreviation but that is not available. This is what the Override option is for.</p>
-<p><img alt="Spelling Options 2" src="../../../../.attachments/Documentation/CleanUpData05.png" title="Spelling Options 2" /></p>
-<p>The Override option opens a prompt for the correct spelling to be entered manually</p>
-<p><img alt="Override" src="../../../../.attachments/Documentation/CleanUpData06.png" title="Override" /></p></div>
+<h1 id="adjustment-remove-adjustment-adjraj">Adjustment / Remove Adjustment — ADJ/RAJ</h1>
+<p><span style="font-size:.8rem;opacity:.8">Updated 2024-04-23 version 0.3.1010</span></p>
+<p>Allows adjustments to be made to the total of an invoice without throwing the payment reports out of line.</p>
+<h2 id="adjustment">Adjustment</h2>
+<p>Adds an adjustment line item to the invoice before taxes are calculated.</p>
+<p>A reason must be entered to add an adjustment. The other option will allow a custom reason to be typed in.</p>
+<p><img alt="Adjustment Reason" src="../../../../.attachments/Documentation/Adjustment-Reason.png" title="Adjustment Reason" /></p>
+<p>A popup requesting the adjustment amount will be shown.</p>
+<blockquote>
+<p>❗ In order to reduce the invoice total a negative amount must be entered.</p>
+</blockquote>
+<p><img alt="Adjustment" src="../../../../.attachments/Documentation/Adjustment.png" title="Adjustment" /></p>
+<p>The adjustment item will have the reason written in the invoice line and the amount stored as a coupon amount so that it shows up on the Discounts report.</p>
+<p><img alt="Adjustment Line Item" src="../../../../.attachments/Documentation/Adjustment-LineItem.png" title="Adjustment Line Item" /></p>
+<h2 id="remove-adjustment">Remove Adjustment</h2>
+<p>The Remove Adjustment (RAJ) command will remove all adjustments on the current invoice.</p></div>
             </div>
         </div>
 
