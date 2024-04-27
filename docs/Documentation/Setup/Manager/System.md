@@ -1,8 +1,9 @@
 # System
+<span style="font-size:.8rem;opacity:.8">Updated 2024-04-25 version 1.0.44.0 (0.3.1013)</span>
 
 Sets system settings.
 
-![System](/.attachments/Documentation/System.png "System")
+![System](../../../.attachments/Documentation/System.png "System")
 
 | Setting | Explanation |
 | --- | --- |
@@ -13,6 +14,7 @@ Sets system settings.
 | Number of Vehicles | The number of vehicles used to deliver routes for route calculation |
 | Enable Cash In prompt | Enables the prompt that attempts to remind employees to cash in |
 | Cash In prompt retry | The time to wait when clicking the Wait button on the Cash In prompt |
+| Expected Cash Float | The expected float when cashing in. If the cash in float doesn't match it will display a confirmation prompt comparing the current float with the expected value |
 | Open on Startup | Opens the startup setting window in Windows to allow the application to be set to open on startup |
 | Try to Update | Attempt to update from the Microsoft Store if an update exists |
 | Test Audio | Makes a sound to ensure that the confirmation sound is audible on this machine |

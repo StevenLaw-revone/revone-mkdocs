@@ -1,5 +1,5 @@
 # Adjustment / Remove Adjustment — ADJ/RAJ
-<span style="font-size:.8rem;opacity:.8">Updated 2024-04-23 version 0.3.1010</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-04-23 version 1.0.44.0 (0.3.1010)</span>
 
 Allows adjustments to be made to the total of an invoice without throwing the payment reports out of line.
 
