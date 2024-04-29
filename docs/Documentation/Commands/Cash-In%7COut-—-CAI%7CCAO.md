@@ -1,5 +1,5 @@
 # Cash In/Out — CAI/CAO
-<span style="font-size:.8rem;opacity:.8">Updated 2024-04-26 version 1.0.44.0 (0.3.1014)</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-04-29 version 0.3.1015</span>
 
 Allows for the recording of the state of the cash drawer at cash in and out.
 
@@ -20,3 +20,7 @@ Loading old reports requires manager authorization and allows the correction of 
 Insert Record allows records to be inserted for specific days. If attempting to insert a record for a date that already has one it will prompt to edit the record instead
 
 ![Record Exists](../../.attachments/Documentation/CashIn-RecordExists.png "Record Exists")
+
+Deleting records will prompt to ensure that the deletion is intended and requires manager permissions
+
+![Delete Confirmation](../../.attachments/Documentation/CashIn-DeleteConfirmation.png "Delete Confirmation")
