@@ -1,5 +1,5 @@
 # Adjustment / Remove Adjustment — ADJ/RAJ
-<span style="font-size:.8rem;opacity:.8">Updated 2024-04-23 version 1.0.44.0 (0.3.1010)</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-04-30 version 0.3.1018</span>
 
 Allows adjustments to be made to the total of an invoice without throwing the payment reports out of line.
 
@@ -21,6 +21,12 @@ The adjustment item will have the reason written in the invoice line and the amo
 
 ![Adjustment Line Item](../../../.attachments/Documentation/Adjustment-LineItem.png "Adjustment Line Item")
 
+Making Adjustments is blocked on paid invoices
+
+![Adjustment — Paid](../../../.attachments/Documentation/Adjustment-Paid.png "Adjustment — Paid")
+
 ## Remove Adjustment
 
-The Remove Adjustment (RAJ) command will remove all adjustments on the current invoice.
+The Remove Adjustment (RAJ) command will remove all adjustments on the current invoice. This function is also blocked on paid invoices
+
+![Remove Adjustment — Paid](../../../.attachments/Documentation/RemoveAdjustment-Paid.png "Remove Adjustment — Paid")
