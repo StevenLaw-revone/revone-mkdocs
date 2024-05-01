@@ -23,6 +23,7 @@ nav:
     - Documentation\Commands\Customer-Updates-—-CU.md
     - Documentation\Commands\Deactivate-Old-Customers-—-DOC.md
     - Documentation\Commands\Edit-Credit-Card-—-ECC.md
+    - Documentation\Commands\Export-Sales-—-EXP.md
     - Documentation\Commands\Find-Duplicates-—-FDC.md
     - 'Heat Seal Commands':
       - Documentation\Commands\Heat-Seal-Commands.md

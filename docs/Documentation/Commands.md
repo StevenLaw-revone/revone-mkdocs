@@ -24,6 +24,7 @@ Commands listed in the Command Line drop down
 >     - [Customer Updates — CU](Commands/Customer-Updates-—-CU.md)
 >     - [Deactivate Old Customers — DOC](Commands/Deactivate-Old-Customers-—-DOC.md)
 >     - [Edit Credit Card — ECC](Commands/Edit-Credit-Card-—-ECC.md)
+>     - [Export Sales](Commands/Export-Sales-—-EXP.md)
 >     - [Find Duplicates — FDC](Commands/Find-Duplicates-—-FDC.md)
 >     - [Heat Seal Commands](Commands/Heat-Seal-Commands.md)
 >         - [Add Heat Seal Tag — AHT](Commands/Heat-Seal-Commands/Add-Heat-Seal-Tag-—-AHT.md)

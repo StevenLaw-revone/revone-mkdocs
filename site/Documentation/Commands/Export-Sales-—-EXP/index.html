@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>Terminal Commands — TS/TR/TV - revONE Documentation</title>
+        <title>Export Sales — EXP - revONE Documentation</title>
         <link href="../../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -124,7 +124,7 @@
 </li>
                                     
 <li>
-    <a href="../Export-Sales-%E2%80%94-EXP/" class="dropdown-item">Export Sales — EXP</a>
+    <a href="./" class="dropdown-item active">Export Sales — EXP</a>
 </li>
                                     
 <li>
@@ -198,7 +198,7 @@
 </li>
                                     
 <li>
-    <a href="./" class="dropdown-item active">Terminal Commands — TS/TR/TV</a>
+    <a href="../Terminal-Commands-%E2%80%94-TS%257CTR%257CTV/" class="dropdown-item">Terminal Commands — TS/TR/TV</a>
 </li>
                                 </ul>
                             </li>
@@ -461,12 +461,12 @@
                             </a>
                         </li>
                             <li class="nav-item">
-                                <a rel="prev" href="../Set-Pick-Up-Location-%E2%80%94-PUL/" class="nav-link">
+                                <a rel="prev" href="../Edit-Credit-Card-%E2%80%94-ECC/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a rel="next" href="../../Functions/" class="nav-link">
+                                <a rel="next" href="../Find-Duplicates-%E2%80%94-FDC/" class="nav-link">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -488,7 +488,7 @@
     <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
         <ul class="nav flex-column">
             
-            <li class="nav-item" data-level="1"><a href="#terminal-commands-tstrtv" class="nav-link">Terminal Commands — TS/TR/TV</a>
+            <li class="nav-item" data-level="1"><a href="#export-sales-exp" class="nav-link">Export Sales — EXP</a>
               <ul class="nav flex-column">
               </ul>
             </li>
@@ -497,10 +497,58 @@
 </div></div>
                     <div class="col-md-9" role="main">
 
-<h1 id="terminal-commands-tstrtv">Terminal Commands — TS/TR/TV</h1>
+<h1 id="export-sales-exp">Export Sales — EXP</h1>
+<p><span style="font-size:.8rem;opacity:.8">Updated 2024-04-30 version 0.3.1019</span></p>
+<p>Exports a list of sales for a selected date range.</p>
+<p><img alt="Export Sales" src="../../../.attachments/Documentation/ExportSales.png" title="Export Sales" /></p>
+<table>
+<thead>
+<tr>
+<th>Parameter</th>
+<th>Explanation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Start Date</td>
+<td>The start of the date range (inclusive)</td>
+</tr>
+<tr>
+<td>End Date</td>
+<td>The end of the date range (inclusive)</td>
+</tr>
+<tr>
+<td>Picked Up</td>
+<td>Show all sales, only not picked up, only picked up (Both, Hide, Only)</td>
+</tr>
+<tr>
+<td>In House</td>
+<td>Show all sales, only not in house customers, only in house customers (Both, Hide, Only)</td>
+</tr>
+<tr>
+<td>Combine Terminal and Virtual Terminal</td>
+<td>Combines Terminal and Virtual Terminal transactions into a single payment type</td>
+</tr>
+<tr>
+<td>Combine MasterCard, Visa, and Debit</td>
+<td>Combines the three payment types into a single file leaving American Express separate</td>
+</tr>
+<tr>
+<td>Separate by Store</td>
+<td>Separates each store into its own file</td>
+</tr>
+<tr>
+<td>Output Route customers as a separate file</td>
+<td>Combines all route customers into a separate file treated like it's own store</td>
+</tr>
+</tbody>
+</table>
 <blockquote>
-<p>❗ <strong>Deprecated</strong> it is preferred to use the actual card type command instead of these commands</p>
-</blockquote></div>
+<p>❗ If Separate by Store is turned off and Output Route customers as a separate file is turned on
+it will result in all non-route customers being listed as Counter</p>
+</blockquote>
+<p>As this can be a long running query the option to cancel out is given.</p>
+<p><img alt="Cancel" src="../../../.attachments/Documentation/ExportSales-Cancel.png" title="Cancel" /></p></div>
             </div>
         </div>
 
