@@ -1,5 +1,5 @@
 # Export Sales — EXP
-<span style="font-size:.8rem;opacity:.8">Updated 2024-04-30 version 0.3.1019</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-04-30 version 0.3.1020</span>
 
 Exports a list of sales for a selected date range.
 
@@ -22,3 +22,7 @@ it will result in all non-route customers being listed as Counter
 As this can be a long running query the option to cancel out is given.
 
 ![Cancel](../../.attachments/Documentation/ExportSales-Cancel.png "Cancel")
+
+If there were no sales during the time period an error message will be displayed and no files written.
+
+![No Sales](../../.attachments/Documentation/ExportSales-NoSales.png "No Sales")
