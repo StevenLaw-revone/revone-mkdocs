@@ -1,5 +1,5 @@
 # Cash In/Out — CAI/CAO
-<span style="font-size:.8rem;opacity:.8">Updated 2024-04-29 version 0.3.1015</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-04-29 version 1.0.45 (0.3.1015</span>
 
 Allows for the recording of the state of the cash drawer at cash in and out.
 

@@ -1,5 +1,5 @@
 # Export Sales — EXP
-<span style="font-size:.8rem;opacity:.8">Updated 2024-05-02 version 0.3.1022</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-05-02 version 1.0.45 (0.3.1022)</span>
 
 Exports a list of sales for a selected date range.
 
