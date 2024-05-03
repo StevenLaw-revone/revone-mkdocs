@@ -490,6 +490,14 @@
             
             <li class="nav-item" data-level="1"><a href="#export-sales-exp" class="nav-link">Export Sales — EXP</a>
               <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#receipt-totals" class="nav-link">Receipt Totals</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#receipt-sales" class="nav-link">Receipt Sales</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
               </ul>
             </li>
         </ul>
@@ -498,7 +506,7 @@
                     <div class="col-md-9" role="main">
 
 <h1 id="export-sales-exp">Export Sales — EXP</h1>
-<p><span style="font-size:.8rem;opacity:.8">Updated 2024-04-30 version 0.3.1020</span></p>
+<p><span style="font-size:.8rem;opacity:.8">Updated 2024-05-02 version 0.3.1022</span></p>
 <p>Exports a list of sales for a selected date range.</p>
 <p><img alt="Export Sales" src="../../../.attachments/Documentation/ExportSales.png" title="Export Sales" /></p>
 <table>
@@ -509,6 +517,10 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>Export Type</td>
+<td>The type of export to use</td>
+</tr>
 <tr>
 <td>Start Date</td>
 <td>The start of the date range (inclusive)</td>
@@ -543,6 +555,12 @@
 </tr>
 </tbody>
 </table>
+<p>There are two types of exports: Receipt Totals and Receipt Sales</p>
+<p><img alt="Export Types" src="../../../.attachments/Documentation/ExportSales-ExportTypes.png" title="Export Types" /></p>
+<h2 id="receipt-totals">Receipt Totals</h2>
+<p>Produces a single file containing the daily totals based on the payment type and store/route</p>
+<h2 id="receipt-sales">Receipt Sales</h2>
+<p>Breaks up the sales detail into multiple files based on the payment type and store/route</p>
 <blockquote>
 <p>❗ If Separate by Store is turned off and Output Route customers as a separate file is turned on
 it will result in all non-route customers being listed as Counter</p>
