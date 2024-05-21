@@ -21,7 +21,7 @@
 >         - [Customer Updates — CU](Documentation/Commands/Customer-Updates-—-CU.md)
 >         - [Deactivate Old Customers — DOC](Documentation/Commands/Deactivate-Old-Customers-—-DOC.md)
 >         - [Edit Credit Card — ECC](Documentation/Commands/Edit-Credit-Card-—-ECC.md)
->         - [Export Sales](Commands/Export-Sales-—-EXP.md)
+>         - [Export Sales](Documentation/Commands/Export-Sales-—-EXP.md)
 >         - [Find Duplicates — FDC](Documentation/Commands/Find-Duplicates-—-FDC.md)
 >         - [Heat Seal Commands](Documentation/Commands/Heat-Seal-Commands.md)
 >             - [Add Heat Seal Tag — AHT](Documentation/Commands/Heat-Seal-Commands/Add-Heat-Seal-Tag-—-AHT.md)
