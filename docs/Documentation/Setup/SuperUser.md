@@ -2,7 +2,7 @@
 
 Functions only available to the SuperUser. Contains things that often require secrets like account passwords
 
-![SuperUser](/.attachments/Documentation/SuperUser.png "SuperUser")
+![SuperUser](../../.attachments/Documentation/SuperUser.png "SuperUser")
 
 > - [API-Keys](SuperUser/API-Keys.md)
 > - [Error-Notification](SuperUser/Error-Notification.md)

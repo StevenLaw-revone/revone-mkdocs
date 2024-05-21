@@ -2,7 +2,7 @@
 
 Functions only available to managers
 
-![Manager](/.attachments/Documentation/Manager.png "Manager")
+![Manager](../../.attachments/Documentation/Manager.png "Manager")
 
 > - [Brands](Manager/Brands.md)
 > - [Cash Drawer](Manager/Cash-Drawer.md)

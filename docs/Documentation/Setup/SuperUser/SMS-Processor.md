@@ -4,4 +4,4 @@
 
 Sets a processor for sending SMS messages.
 
-![SMS Processor](/.attachments/Documentation/SmsProcessor.png "SMS Processor")
+![SMS Processor](../../../.attachments/Documentation/SmsProcessor.png "SMS Processor")

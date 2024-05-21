@@ -513,116 +513,144 @@
 <tr>
 <th>Setting</th>
 <th>Explanation</th>
+<th>Scope</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Number of copies</td>
 <td>The number of copies of invoice receipts to print, duplicated in <a href="../../All-Employees/Receipt/">Receipt</a></td>
+<td>Machine Specific</td>
 </tr>
 <tr>
 <td>Quick Ticket Copies</td>
 <td>The number of copies of quick ticket receipts to print, duplicated in <a href="../../All-Employees/Receipt/">Receipt</a></td>
+<td>Machine Specific</td>
 </tr>
 <tr>
 <td>Prefix</td>
 <td>The store prefix that the current system is associated with</td>
+<td>Machine Specific</td>
 </tr>
 <tr>
 <td>Coupon Threshold</td>
 <td>The threshold above which coupons will require manager permission. Doesn't apply to invoice coupons set in the customer settings.</td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Address and phone number</td>
 <td>Print the address and phone number in the receipt.</td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Print last name first</td>
 <td>Prints the customer's last name first on receipts.</td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Number on the bottom</td>
 <td>Prints the invoice number on the bottom of the receipt.</td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Number on the right</td>
 <td>Prints the invoice number on the right side of the receipt.</td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Ready by on the top</td>
 <td>Prints the ready by status on the top of the receipt.</td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Bold shirt preference</td>
 <td>Prints the shirt preference bold on receipts.</td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Invoice number speed search</td>
 <td>Search invoices by partial invoice numbers</td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Round cash to the nearest 5¢</td>
 <td>Adds a rounding item to invoice paid using cash to round the transaction to the nearest 5¢</td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Allow payment by coupon</td>
 <td>Allows payment by coupon.</td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Use Metal Progetti</td>
 <td>Enable/Disable/Override the Use Metal Progetti setting. <a href="#use-metal-progetti">Dialog</a></td>
+<td>Machine Specific if deactivating but if overriding Database Wide</td>
 </tr>
 <tr>
 <td>MP Tag Prefix</td>
 <td>The prefix used for Metal Progetti tags allowing multiple databases to connect to the same physical Metal Progetti machine</td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Default location for MU</td>
 <td>The default location to set items when scanning them in the <a href="../../../Commands/Multiple-Pickup-%E2%80%94-MU/">Multiple Pickup — MU</a> command.</td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Tag on invoice</td>
 <td>Enables setting tags on entire invoices vs on specific items.</td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Tags before "Ready By"</td>
 <td>Sets invoice tag before opening the set ready by dialog</td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Allow Multiple Tags</td>
 <td>Allows multiple tags. ❗ <em>May be deprecated?</em></td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Print barcodes on invoices</td>
 <td>Prints invoice barcodes on the receipts.</td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Invoice Message</td>
 <td>Sets a message to print in invoice receipts. <a href="#invoice-message">Dialog</a></td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Print message in invoice</td>
 <td>Prints the message set in the previous setting in the invoice receipt.</td>
+<td>Database Wide</td>
 </tr>
 <tr>
 <td>Change hours</td>
 <td>❗ <em>Not used?</em></td>
+<td>Machine Specific</td>
 </tr>
 <tr>
 <td>Maximum pieces</td>
 <td>❗ <em>Not used?</em></td>
+<td>Machine Specific</td>
 </tr>
 <tr>
 <td>Invoice Printer</td>
 <td>Connects with a network printer. ❗ Largely untested use POS Proxy instead.</td>
+<td>Machine Specific</td>
 </tr>
 <tr>
 <td>Use POS Printer</td>
 <td>Use the POS Printer utility. Bundled in the store version and should launch if it is not open on attempting to print.</td>
+<td>Machine Specific</td>
 </tr>
 <tr>
 <td>Launch POS Printer</td>
 <td>Attempt to launch the POS Printer.</td>
+<td>Machine Specific</td>
 </tr>
 </tbody>
 </table>
