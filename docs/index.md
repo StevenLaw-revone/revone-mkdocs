@@ -11,6 +11,7 @@
 >             - [Find Duplicate Customers — FDC](Documentation/Commands/Administration-Tools/Find-Duplicate-Customers-—-FDC.md)
 >             - [Manage Failed Messages — MM](Documentation/Commands/Administration-Tools/Manage-Failed-Messages-—-MM.md)
 >             - [Pick Up Route — PUR](Documentation/Commands/Administration-Tools/Pick-Up-Route-—-PUR.md)
+>             - [Remove Coupon on Account Credit — RAC](Documentation/Commands/Administration-Tools/Remove-Coupon-on-Account-Credit-—-RAC.md)
 >             - [Remove Empty Invoices — REI](Documentation/Commands/Administration-Tools/Remove-Empty-Invoices-—-REI.md)
 >             - [SMS Suppression Report — SSR](Documentation/Commands/Administration-Tools/SMS-Suppression-Report-—-SSR.md)
 >             - [Tag Issues — TGI](Documentation/Commands/Administration-Tools/Tag-Issues-—-TGI.md)

@@ -14,6 +14,7 @@ Commands listed in the Command Line drop down
 >         - [Find Duplicate Customers — FDC](Commands/Administration-Tools/Find-Duplicate-Customers-—-FDC.md)
 >         - [Manage Failed Messages — MM](Commands/Administration-Tools/Manage-Failed-Messages-—-MM.md)
 >         - [Pick Up Route — PUR](Commands/Administration-Tools/Pick-Up-Route-—-PUR.md)
+>         - [Remove Coupon on Account Credit — RAC](Commands/Administration-Tools/Remove-Coupon-on-Account-Credit-—-RAC.md)
 >         - [Remove Empty Invoices — REI](Commands/Administration-Tools/Remove-Empty-Invoices-—-REI.md)
 >         - [SMS Suppression Report — SSR](Commands/Administration-Tools/SMS-Suppression-Report-—-SSR.md)
 >         - [Tag Issues — TGI](Commands/Administration-Tools/Tag-Issues-—-TGI.md)
