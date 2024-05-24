@@ -521,10 +521,10 @@
 <p>When customer profiles have been uploaded in bulk through CSV the profile IDs need to be pulled and associated back with the customers. This button will pull the current list of profiles from the marketing API and associate them with customers with matching Customer IDs. It will then display the number of profiles that were pulled and the number that were loaded.</p>
 <p><img alt="Load Bulk Profiles — Result" src="../../../../.attachments/Documentation/ApiSettings-LoadKlaviyoProfiles.png" title="Load Bulk Profiles — Result" /></p>
 <p>The loaded amount is generally going to be lower than the number of customers due to split profiles and the admin account having it's own profile that doesn't match with any customer.</p>
-<p>### Update message settings profiles</p>
+<h3 id="update-message-settings-profiles">Update message settings profiles</h3>
 <p>This pulls a list of profiles from the marketing API and updates the promotional email/SMS flags based on if the marketing system has them as subscribed to the respective service. It also synchronizes the profile IDs with the customer IDs if they aren't already.</p>
 <p><img alt="Update profiles" src="../../../../.attachments/Documentation/ApiSettings-UpdateMessageSettings.png" title="Update profiles" /></p>
-<p>#### Minor command — Update Sub</p>
+<h4 id="minor-command-update-sub">Minor command — Update Sub</h4>
 <p>The minor command Update Sub or Update Subscription will pull all subscribe/unsubscribe events that occurred since the last update either using this command or the all profiles button above and update the promotional email/SMS flags. This is to reduce the API calls and only update changes.</p></div>
             </div>
         </div>
