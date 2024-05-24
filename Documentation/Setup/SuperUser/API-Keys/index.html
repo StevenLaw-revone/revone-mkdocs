@@ -498,7 +498,7 @@
               <ul class="nav flex-column">
               </ul>
             </li>
-            <li class="nav-item" data-level="2"><a href="#load-bulk-profiles-klaviyo" class="nav-link">Load Bulk Profiles — Klaviyo</a>
+            <li class="nav-item" data-level="2"><a href="#marketing-api" class="nav-link">Marketing API</a>
               <ul class="nav flex-column">
               </ul>
             </li>
@@ -510,16 +510,22 @@
                     <div class="col-md-9" role="main">
 
 <h1 id="api-keys">API Keys</h1>
-<p><span style="font-size:.8rem;opacity:.8">Updated 2024-05-13 version 0.3.1028</span></p>
+<p><span style="font-size:.8rem;opacity:.8">Updated 2024-05-13 version 0.3.1036</span></p>
 <p>Set keys for external APIs.</p>
 <p><img alt="API Keys" src="../../../../.attachments/Documentation/ApiSettings.png" title="API Keys" /></p>
 <h2 id="edit-aws-pinpoint-email-templates">Edit AWS Pinpoint email templates.</h2>
 <p>Allows editing the AWS templates from inside the POS system</p>
 <p><img alt="Edit AWS Templates" src="../../../../.attachments/Documentation/ApiSettings-EditAwsTemplates.png" title="Edit AWS Templates" /></p>
-<h2 id="load-bulk-profiles-klaviyo">Load Bulk Profiles — Klaviyo</h2>
-<p>When customer profiles have been uploaded in bulk through CSV the profile IDs need to be pulled and associated back with the customers. This button will pull the current list of profiles from Klaviyo and associate them with customers with matching Customer IDs. It will then display the number of profiles that were pulled and the number that were loaded.</p>
+<h2 id="marketing-api">Marketing API</h2>
+<h3 id="load-bulk-profiles">Load Bulk Profiles</h3>
+<p>When customer profiles have been uploaded in bulk through CSV the profile IDs need to be pulled and associated back with the customers. This button will pull the current list of profiles from the marketing API and associate them with customers with matching Customer IDs. It will then display the number of profiles that were pulled and the number that were loaded.</p>
 <p><img alt="Load Bulk Profiles — Result" src="../../../../.attachments/Documentation/ApiSettings-LoadKlaviyoProfiles.png" title="Load Bulk Profiles — Result" /></p>
-<p>The loaded amount is generally going to be lower than the number of customers due to split profiles and the admin account having it's own profile that doesn't match with any customer.</p></div>
+<p>The loaded amount is generally going to be lower than the number of customers due to split profiles and the admin account having it's own profile that doesn't match with any customer.</p>
+<p>### Update message settings profiles</p>
+<p>This pulls a list of profiles from the marketing API and updates the promotional email/SMS flags based on if the marketing system has them as subscribed to the respective service. It also synchronizes the profile IDs with the customer IDs if they aren't already.</p>
+<p><img alt="Update profiles" src="../../../../.attachments/Documentation/ApiSettings-UpdateMessageSettings.png" title="Update profiles" /></p>
+<p>#### Minor command — Update Sub</p>
+<p>The minor command Update Sub or Update Subscription will pull all subscribe/unsubscribe events that occurred since the last update either using this command or the all profiles button above and update the promotional email/SMS flags. This is to reduce the API calls and only update changes.</p></div>
             </div>
         </div>
 
