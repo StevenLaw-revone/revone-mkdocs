@@ -10,6 +10,7 @@ Functions only available to managers
 > - [Charge Account Frequencies](Manager/Charge-Account-Frequencies.md)
 > - [Company](Manager/Company.md)
 > - [Coupons](Manager/Coupons.md)
+> - [Coupon Codes](Manager/Coupon-Codes.md)
 > - [Credit Card](Manager/Credit-Card.md)
 > - [Customer Codes](Manager/Customer-Codes.md)
 > - [Email/Messaging](Manager/Email%257CMessaging.md)

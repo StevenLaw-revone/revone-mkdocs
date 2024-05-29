@@ -18,6 +18,7 @@ Functions in the setup menu
 >     - [Charge Account Frequencies](Setup/Manager/Charge-Account-Frequencies.md)
 >     - [Company](Setup/Manager/Company.md)
 >     - [Coupons](Setup/Manager/Coupons.md)
+>     - [Coupon Codes](Setup/Manager/Coupon-Codes.md)
 >     - [Credit Card](Setup/Manager/Credit-Card.md)
 >     - [Customer Codes](Setup/Manager/Customer-Codes.md)
 >     - [Email/Messaging](Setup/Manager/Email%257CMessaging.md)

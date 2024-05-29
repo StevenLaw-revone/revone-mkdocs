@@ -47,6 +47,7 @@ nav:
     - Documentation\Functions.md
     - Documentation\Functions\Active-Promotions.md
     - Documentation\Functions\Command-Lookup.md
+    - Documentation\Functions\Coupon-Codes.md
     - Documentation\Functions\Credit-Card.md
     - Documentation\Functions\Customer-Editing.md
     - Documentation\Functions\Database-Setup.md
@@ -77,6 +78,7 @@ nav:
       - Documentation\Setup\Manager\Charge-Account-Frequencies.md
       - Documentation\Setup\Manager\Company.md
       - Documentation\Setup\Manager\Coupons.md
+      - Documentation\Setup\Manager\Coupon-Codes.md
       - Documentation\Setup\Manager\Credit-Card.md
       - Documentation\Setup\Manager\Customer-Codes.md
       - Documentation\Setup\Manager\Email%7CMessaging.md
