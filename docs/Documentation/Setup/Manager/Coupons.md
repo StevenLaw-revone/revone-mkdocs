@@ -1,4 +1,5 @@
 # Coupons
+<span style="font-size:.8rem;opacity:.8">Updated 2024-05-31 version 0.3.1041</span>
 
 Sets coupons (or discounts) for use on invoices.
 
