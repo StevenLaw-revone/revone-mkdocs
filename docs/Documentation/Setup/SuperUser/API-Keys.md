@@ -1,5 +1,5 @@
 # API Keys
-<span style="font-size:.8rem;opacity:.8">Updated 2024-05-13 version 0.3.1036</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-05-13 version 1.0.48 (0.3.1036)</span>
 
 
 Set keys for external APIs.

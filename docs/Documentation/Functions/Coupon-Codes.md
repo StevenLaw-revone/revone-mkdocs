@@ -1,5 +1,5 @@
 # Coupon Codes
-<span style="font-size:.8rem;opacity:.8">Updated 2024-05-30 version 0.3.1040</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-05-30 version 1.0.48 (0.3.1040)</span>
 
 Coupon codes allow a group of discounts to be linked to a code that can be sent by email and redeemed in store. The setup is in the [Managers section of Setup](../Setup/Manager/Coupon-Codes.md).
 
