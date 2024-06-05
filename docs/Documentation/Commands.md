@@ -39,6 +39,7 @@ Commands listed in the Command Line drop down
 >     - [Process Charge Accounts — PCA](Commands/Process-Charge-Accounts-—-PCA.md)
 >     - [Put Overage on Account — POA](Commands/Put-Overage-on-Account-—-PUL.md)
 >     - [Re-Scan Inventory — RSI](Commands/Re%252DScan-Inventory-—-RSI.md)
+>     - [Remove Batch Payments — RBP](Commands/Remove-Batch-Payments-—-RBP.md)
 >     - [Remove Credit Card — RCC](Commands/Remove-Credit-Card-—-RCC.md)
 >     - [Send Pickup Emails — SPE](Commands/Send-Pickup-Emails-—-SPE.md)
 >     - [Set Pick Up Location — PUL](Commands/Set-Pick-Up-Location-—-PUL.md)

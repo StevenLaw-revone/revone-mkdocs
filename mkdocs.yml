@@ -39,6 +39,7 @@ nav:
     - Documentation\Commands\Process-Charge-Accounts-—-PCA.md
     - Documentation\Commands\Put-Overage-on-Account-—-PUL.md
     - Documentation\Commands\Re%2DScan-Inventory-—-RSI.md
+    - Documentation\Commands\Remove-Batch-Payments-—-RBP.md
     - Documentation\Commands\Remove-Credit-Card-—-RCC.md
     - Documentation\Commands\Send-Pickup-Emails-—-SPE.md
     - Documentation\Commands\Set-Pick-Up-Location-—-PUL.md

@@ -36,6 +36,7 @@
 >         - [Process Charge Accounts — PCA](Documentation/Commands/Process-Charge-Accounts-—-PCA.md)
 >         - [Put Overage on Account — POA](Documentation/Commands/Put-Overage-on-Account-—-PUL.md)
 >         - [Re-Scan Inventory — RSI](Documentation/Commands/Re%252DScan-Inventory-—-RSI.md)
+>         - [Remove Batch Payments — RBP](Documentation/Commands/Remove-Batch-Payments-—-RBP.md)
 >         - [Remove Credit Card — RCC](Documentation/Commands/Remove-Credit-Card-—-RCC.md)
 >         - [Send Pickup Emails — SPE](Documentation/Commands/Send-Pickup-Emails-—-SPE.md)
 >         - [Set Pick Up Location — PUL](Documentation/Commands/Set-Pick-Up-Location-—-PUL.md)
