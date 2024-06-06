@@ -1,4 +1,5 @@
 # Price Lists
+<span style="font-size:.8rem;opacity:.8">Updated 2024-06-06 version 0.3.1046</span>
 
 Setup the price lists where the customer's item prices are set in.
 
@@ -25,6 +26,7 @@ Setup the price lists where the customer's item prices are set in.
 | Garment Size | A relative size used by Metal Progetti to split invoices to sub invoice and maintain sufficient space on the conveyer |
 | No Plastic Bag | The item doesn't use a plastic bag |
 | Use Heat Seal Tag | The item requires a heat seal tag |
+| Indeterminate Price | Indicates that this item is to be initially set as $0 then changed to the final price when the cost is determined. Prevents invoices where this item is still $0 from being paid |
 | Disclaimer | Notes about the item |
 | Print in bold | Print the item in bold ❗ _May not be in use_ |
 

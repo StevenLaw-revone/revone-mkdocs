@@ -115,20 +115,20 @@ copyright:
 plugins:
   - abs-to-rel
   - search
-  # - with-pdf
-  #     #author: Steven Law
-  #     #copyright: revONE 2024
-  #     #exclude_pages:
-  #     #   - '/'
-  #     #   - '/Documentation/Commands/'
-  #     #   - '/Documentation/Commands/Administration-Tools/'
-  #     #   - '/Documentation/Commands/Heat-Seal-Commands/'
-  #     #   - '/Documentation/Functions/'
-  #     #   - '/Documentation/Setup/'
-  #     #   - '/Documentation/Setup/All-Employees/'
-  #     #   - '/Documentation/Setup/Manager/'
-  #     #   - '/Documentation/Setup/SuperUser/'
-  #     #headless_chrome_path: chrome --headless
-  #     #output_path: any-place/document.pdf
+  # - with-pdf:
+  #   author: Steven Law
+  #   copyright: revONE 2024
+  #   #exclude_pages:
+  #   #   - '/'
+  #   #   - '/Documentation/Commands/'
+  #   #   - '/Documentation/Commands/Administration-Tools/'
+  #   #   - '/Documentation/Commands/Heat-Seal-Commands/'
+  #   #   - '/Documentation/Functions/'
+  #   #   - '/Documentation/Setup/'
+  #   #   - '/Documentation/Setup/All-Employees/'
+  #   #   - '/Documentation/Setup/Manager/'
+  #   #   - '/Documentation/Setup/SuperUser/'
+  #   #headless_chrome_path: chrome --headless
+  #   # output_path: any-place/revONE_Manual.pdf
   - print-site
     
