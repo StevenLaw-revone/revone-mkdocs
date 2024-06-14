@@ -1,5 +1,5 @@
 # Reports
-<span style="font-size:.8rem;opacity:.8">Updated 2024-05-31 version 0.3.1059</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-05-31 version 1.0.50 (0.3.1059)</span>
 
 Allows the loading of reports from inside revPOS.
 

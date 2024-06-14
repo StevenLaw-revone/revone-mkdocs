@@ -1,5 +1,5 @@
 # Remove Batch Payments — RBP
-<span style="font-size:.8rem;opacity:.8">Updated 2024-05-31 version 0.3.1056</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-05-31 version 1.0.50 (0.3.1056)</span>
 
 Allows the viewing and removal of batch payments in a selected date range.
 

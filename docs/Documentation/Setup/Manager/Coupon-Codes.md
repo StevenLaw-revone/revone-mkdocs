@@ -1,5 +1,5 @@
 # Coupon Codes
-<span style="font-size:.8rem;opacity:.8">Updated 2024-05-31 version 0.3.1055</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-05-31 version 1.0.50 (0.3.1055)</span>
 
 Coupon codes allow a group of discounts to be linked to a code that can be sent by email and redeemed in store. Information about redeeming the codes can be found [Here](../../Functions/Coupon-Codes.md).
 
