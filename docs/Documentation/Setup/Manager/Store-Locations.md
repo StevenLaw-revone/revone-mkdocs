@@ -1,5 +1,5 @@
 # Store Locations
-<span style="font-size:.8rem;opacity:.8">Updated 2024-05-31 version 0.3.1071</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-05-31 version 1.0.51 (0.3.1071)</span>
 
 Allows store locations to be linked to prefixes and the addresses and other info stored for use in reports and messages.
 
