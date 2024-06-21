@@ -1,5 +1,5 @@
 # Price Lists
-<span style="font-size:.8rem;opacity:.8">Updated 2024-06-06 version 1.0.49 (0.3.1015)</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-06-21 version 0.3.1074</span>
 
 Setup the price lists where the customer's item prices are set in.
 
