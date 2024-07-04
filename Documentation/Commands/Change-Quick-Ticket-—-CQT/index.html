@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>Monthly Charge Accounts — MCA - revONE Documentation</title>
+        <title>Change Quick Ticket — CQT - revONE Documentation</title>
         <link href="../../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../../css/fontawesome.min.css" rel="stylesheet">
         <link href="../../../css/brands.min.css" rel="stylesheet">
@@ -128,7 +128,7 @@
 </li>
                                     
 <li>
-    <a href="../Change-Quick-Ticket-%E2%80%94-CQT/" class="dropdown-item">Change Quick Ticket — CQT</a>
+    <a href="./" class="dropdown-item active" aria-current="page">Change Quick Ticket — CQT</a>
 </li>
                                     
 <li>
@@ -174,7 +174,7 @@
   </li>
                                     
 <li>
-    <a href="./" class="dropdown-item active" aria-current="page">Monthly Charge Accounts — MCA</a>
+    <a href="../Monthly-Charge-Accounts-%E2%80%94-MCA/" class="dropdown-item">Monthly Charge Accounts — MCA</a>
 </li>
                                     
 <li>
@@ -501,12 +501,12 @@
                             </a>
                         </li>
                             <li class="nav-item">
-                                <a rel="prev" href="../Heat-Seal-Commands/Change-Heat-Seal-Tag-%E2%80%94-CHT/" class="nav-link">
+                                <a rel="prev" href="../Cash-In%257COut-%E2%80%94-CAI%257CCAO/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a rel="next" href="../Multiple-Locations-%E2%80%94-ML/" class="nav-link">
+                                <a rel="next" href="../Customer-Updates-%E2%80%94-CU/" class="nav-link">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -528,20 +528,8 @@
     <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
         <ul class="nav flex-column">
             
-            <li class="nav-item" data-bs-level="1"><a href="#monthly-charge-accounts-mca" class="nav-link">Monthly Charge Accounts — MCA</a>
+            <li class="nav-item" data-bs-level="1"><a href="#change-quick-ticket-cqt" class="nav-link">Change Quick Ticket — CQT</a>
               <ul class="nav flex-column">
-            <li class="nav-item" data-bs-level="2"><a href="#parameters" class="nav-link">Parameters</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
-            <li class="nav-item" data-bs-level="2"><a href="#generating-statements" class="nav-link">Generating Statements</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
-            <li class="nav-item" data-bs-level="2"><a href="#send-check-spam-folder-email" class="nav-link">Send Check Spam Folder Email</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
               </ul>
             </li>
         </ul>
@@ -549,26 +537,12 @@
 </div></div>
                     <div class="col-md-9" role="main">
 
-<h1 id="monthly-charge-accounts-mca">Monthly Charge Accounts — MCA</h1>
-<p>Used to generate statements, and statement discounts, for customers.</p>
-<h2 id="parameters">Parameters</h2>
-<p>The frequency type and invoice date range need to be selected before any statement is generated. The month drop down will set the Start and End dates to the specified month (if the month hasn't occurred yet it will set to that month last year)</p>
-<p><img alt="Parameters" src="../../../.attachments/Documentation/MonthlyChargeAccounts-Parameters.png" title="Parameters" /></p>
-<p>The Frequency Type is a Manager Property in the customer setup used to separate customers into different groups. Here the separation is how frequently the statement needs to be generated</p>
-<p><img alt="Frequency Types" src="../../../.attachments/Documentation/MonthlyChargeAccounts-FrequencyType.png" title="Frequency Types" /></p>
-<p>The setting is in Manager Properties at the bottom of the following screenshot</p>
-<p><img alt="Customer Setting" src="../../../.attachments/Documentation/MonthlyChargeAccounts-ChargeAccountFrequency.png" title="Frequency Types" /></p>
-<p>The full list of options is available to be set in the Setup&gt;Charge Account Frequencies tab</p>
-<p><img alt="Setup — Change Charge Account Frequencies" src="../../../.attachments/Documentation/MonthlyChargeAccounts-Setup-ChargeAccountFrequencies.png" title="Setup — Change Charge Account Frequencies" /></p>
-<p><img alt="Buttons" src="../../../.attachments/Documentation/MonthlyChargeAccounts-Buttons.png" title="Buttons" /></p>
-<h2 id="generating-statements">Generating Statements</h2>
-<p>Once in the main MCA window you need to select the customers that you want to send the statements to</p>
-<p><img alt="Main" src="../../../.attachments/Documentation/MonthlyChargeAccounts.png" title="Monthly Charge Accounts" /></p>
-<p>This icon <img alt="Email" src="../../../.attachments/Documentation/MonthlyChargeAccounts-Email.png" title="Email" /> means that the customer is setup to receive emailed statements while this one <img alt="Print" src="../../../.attachments/Documentation/MonthlyChargeAccounts-Print.png" title="Print" /> means that the statement will need to be saved and likely printed to had to the customer.</p>
-<p>The Create Statement Discount button when checked will create a statement discount invoice if the customer has a statement discount setup. This is a negative amount invoice that records the discount across the entire statement</p>
-<p>The "Save email statements instead of sending" button will instead create the file for all customers even ones set up to receive emailed statements. This allows a statement to be created without sending to the customer</p>
-<h2 id="send-check-spam-folder-email">Send Check Spam Folder Email</h2>
-<p>This sends a simple email using a template in setup to ask the customer to check their spam folder page as some email providers filter emails with attachments to spam</p></div>
+<h1 id="change-quick-ticket-cqt">Change Quick Ticket — CQT</h1>
+<p><span style="font-size:.8rem;opacity:.8">Updated 2024-05-31 version 0.3.1080</span></p>
+<p>Occasionally a quick ticket will fail to be marked as an invoice when items are added to it. This command's purpose is to correct this issue. If an invoice is marked as a quick ticket, has items on it, and this command is run it will be manually forced to be an invoice instead of a quick ticket</p>
+<p>Quick Tickets that have failed to be converted can be found by using the <a href="../Find-Unchanged-Quick-Ticket-%E2%80%94-UQT/">Find Unchanged Quick Ticket — UQT</a> command.</p>
+<p>If the invoice is not marked as a quick ticket it will simply fail:</p>
+<p><img alt="Not a Quick Ticket" src="../../../.attachments/Documentation/ChangeQuickTicket-NotAQuickTicket.png" title="Not a Quick Ticket" /></p></div>
             </div>
         </div>
 
