@@ -31,6 +31,7 @@ Functions in the setup menu
 >     - [Statement Groups Lists](Setup/Manager/Statement-Groups-Lists.md)
 >     - [Statement Groups](Setup/Manager/Statement-Groups.md)
 >     - [Store Locations](Setup/Manager/Store-Locations.md)
+>     - [Subscriptions](Setup/Manager/Subscriptions.md)
 >     - [System](Setup/Manager/System.md)
 >     - [Tags](Setup/Manager/Tags.md)
 >     - [Taxes](Setup/Manager/Taxes.md)

@@ -21,11 +21,13 @@ nav:
       - Documentation\Commands\Administration-Tools\Write-Off-Bulk-—-WOB.md
     - Documentation\Commands\Batch-Payment-—-B.md
     - Documentation\Commands\Cash-In%7COut-—-CAI%7CCAO.md
+    - Documentation\Commands\Change-Quick-Ticket-—-CQT.md
     - Documentation\Commands\Customer-Updates-—-CU.md
     - Documentation\Commands\Deactivate-Old-Customers-—-DOC.md
     - Documentation\Commands\Edit-Credit-Card-—-ECC.md
     - Documentation\Commands\Export-Sales-—-EXP.md
     - Documentation\Commands\Find-Duplicates-—-FDC.md
+    - Documentation\Commands\Find-Unchanged-Quick-Ticket-—-UQT.md
     - 'Heat Seal Commands':
       - Documentation\Commands\Heat-Seal-Commands.md
       - Documentation\Commands\Heat-Seal-Commands\Add-Heat-Seal-Tag-—-AHT.md
@@ -92,6 +94,7 @@ nav:
       - Documentation\Setup\Manager\Statement-Groups.md
       - Documentation\Setup\Manager\Statement-Groups-Lists.md
       - Documentation\Setup\Manager\Store-Locations.md
+      - Documentation\Setup\Manager\Subscriptions.md
       - Documentation\Setup\Manager\System.md
       - Documentation\Setup\Manager\Tags.md
       - Documentation\Setup\Manager\Taxes.md

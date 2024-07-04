@@ -23,6 +23,7 @@ Functions only available to managers
 > - [Statement Groups Lists](Manager/Statement-Groups-Lists.md)
 > - [Statement Groups](Manager/Statement-Groups.md)
 > - [Store Locations](Manager/Store-Locations.md)
+> - [Subscriptions](Manager/Subscriptions.md)
 > - [System](Manager/System.md)
 > - [Tags](Manager/Tags.md)
 > - [Taxes](Manager/Taxes.md)
