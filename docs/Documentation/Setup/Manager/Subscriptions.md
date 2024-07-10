@@ -1,5 +1,5 @@
 # Subscriptions
-<span style="font-size:.8rem;opacity:.8">Updated 2024-05-31 version 0.3.1076</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-05-31 version 1.0.53 (0.3.1076)</span>
 
 A customer can be signed up to subscriptions and this allows this to be tracked in system.
 

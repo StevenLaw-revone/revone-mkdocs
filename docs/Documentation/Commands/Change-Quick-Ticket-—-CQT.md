@@ -1,5 +1,5 @@
 # Change Quick Ticket — CQT
-<span style="font-size:.8rem;opacity:.8">Updated 2024-05-31 version 0.3.1080</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-05-31 version 1.0.53 (0.3.1080)</span>
 
 Occasionally a quick ticket will fail to be marked as an invoice when items are added to it. This command's purpose is to correct this issue. If an invoice is marked as a quick ticket, has items on it, and this command is run it will be manually forced to be an invoice instead of a quick ticket
 
