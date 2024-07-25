@@ -1,9 +1,15 @@
 # Subscriptions
-<span style="font-size:.8rem;opacity:.8">Updated 2024-05-31 version 1.0.53 (0.3.1076)</span>
+<span style="font-size:.8rem;opacity:.8">Updated 2024-05-31 version 0.3.1095</span>
 
 A customer can be signed up to subscriptions and this allows this to be tracked in system.
 
 ![Subscriptions](../../../.attachments/Documentation/Subscriptions.png "Subscriptions")
+
+## Sub Lists
+
+Double clicking on a sub list will open that list and show a button to return to the main list
+
+![Sub List](../../../.attachments/Documentation/Subscriptions-SubList.png "Sub List")
 
 ## Delete
 
@@ -15,7 +21,7 @@ Only subscriptions that aren't currently being used by customers can be deleted.
 
 Billing periods can be set up using this button. 
 
-![Enter billing period's name](../../../.attachments/Documentation/Subscriptions-EnterName.png "Enter billing period's name")
+![Add Billing Period](../../../.attachments/Documentation/Subscriptions-AddBillingPeriod.png "Add Billing Period")
 
 A name must be set.
 

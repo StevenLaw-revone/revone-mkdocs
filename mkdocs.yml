@@ -19,9 +19,11 @@ nav:
       - Documentation\Commands\Administration-Tools\Tag-Issues-—-TGI.md
       - Documentation\Commands\Administration-Tools\View-Tag-Status-%7C-View-Invoice-Status-—-VTS%7CVIS.md
       - Documentation\Commands\Administration-Tools\Write-Off-Bulk-—-WOB.md
+    - Documentation\Commands\Add-Bag-—-AB.md
     - Documentation\Commands\Batch-Payment-—-B.md
     - Documentation\Commands\Cash-In%7COut-—-CAI%7CCAO.md
     - Documentation\Commands\Change-Quick-Ticket-—-CQT.md
+    - Documentation\Commands\Create-Subscription-Invoices-—-CSI.md
     - Documentation\Commands\Customer-Updates-—-CU.md
     - Documentation\Commands\Deactivate-Old-Customers-—-DOC.md
     - Documentation\Commands\Edit-Credit-Card-—-ECC.md
